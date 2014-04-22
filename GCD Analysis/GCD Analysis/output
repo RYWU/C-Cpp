@@ -1,0 +1,2305 @@
+Case (32460, 32000): GCD-By-Def = 20, taking 31999 iterations
+Case (32460, 32000): GCD-By-Reverse-Search = 20, taking 31981 iterations
+Case (32460, 32000): GCD-By-Binary = 20, taking 14 iterations
+Case (32460, 32000): GCD-By-Euclid = 20, taking 5 iterations
+
+Case (32460, 32001): GCD-By-Def = 3, taking 32000 iterations
+Case (32460, 32001): GCD-By-Reverse-Search = 3, taking 31999 iterations
+Case (32460, 32001): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32001): GCD-By-Euclid = 3, taking 8 iterations
+
+Case (32460, 32002): GCD-By-Def = 2, taking 32001 iterations
+Case (32460, 32002): GCD-By-Reverse-Search = 2, taking 32001 iterations
+Case (32460, 32002): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32002): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32003): GCD-By-Def = 1, taking 32002 iterations
+Case (32460, 32003): GCD-By-Reverse-Search = 1, taking 32003 iterations
+Case (32460, 32003): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32003): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32004): GCD-By-Def = 12, taking 32003 iterations
+Case (32460, 32004): GCD-By-Reverse-Search = 12, taking 31993 iterations
+Case (32460, 32004): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32004): GCD-By-Euclid = 12, taking 4 iterations
+
+Case (32460, 32005): GCD-By-Def = 5, taking 32004 iterations
+Case (32460, 32005): GCD-By-Reverse-Search = 5, taking 32001 iterations
+Case (32460, 32005): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32005): GCD-By-Euclid = 5, taking 5 iterations
+
+Case (32460, 32006): GCD-By-Def = 2, taking 32005 iterations
+Case (32460, 32006): GCD-By-Reverse-Search = 2, taking 32005 iterations
+Case (32460, 32006): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32006): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32007): GCD-By-Def = 3, taking 32006 iterations
+Case (32460, 32007): GCD-By-Reverse-Search = 3, taking 32005 iterations
+Case (32460, 32007): GCD-By-Binary = 3, taking 16 iterations
+Case (32460, 32007): GCD-By-Euclid = 3, taking 7 iterations
+
+Case (32460, 32008): GCD-By-Def = 4, taking 32007 iterations
+Case (32460, 32008): GCD-By-Reverse-Search = 4, taking 32005 iterations
+Case (32460, 32008): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32008): GCD-By-Euclid = 4, taking 8 iterations
+
+Case (32460, 32009): GCD-By-Def = 1, taking 32008 iterations
+Case (32460, 32009): GCD-By-Reverse-Search = 1, taking 32009 iterations
+Case (32460, 32009): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32009): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32010): GCD-By-Def = 30, taking 32009 iterations
+Case (32460, 32010): GCD-By-Reverse-Search = 30, taking 31981 iterations
+Case (32460, 32010): GCD-By-Binary = 30, taking 13 iterations
+Case (32460, 32010): GCD-By-Euclid = 30, taking 3 iterations
+
+Case (32460, 32011): GCD-By-Def = 1, taking 32010 iterations
+Case (32460, 32011): GCD-By-Reverse-Search = 1, taking 32011 iterations
+Case (32460, 32011): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32011): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32012): GCD-By-Def = 4, taking 32011 iterations
+Case (32460, 32012): GCD-By-Reverse-Search = 4, taking 32009 iterations
+Case (32460, 32012): GCD-By-Binary = 4, taking 22 iterations
+Case (32460, 32012): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32013): GCD-By-Def = 3, taking 32012 iterations
+Case (32460, 32013): GCD-By-Reverse-Search = 3, taking 32011 iterations
+Case (32460, 32013): GCD-By-Binary = 3, taking 18 iterations
+Case (32460, 32013): GCD-By-Euclid = 3, taking 9 iterations
+
+Case (32460, 32014): GCD-By-Def = 2, taking 32013 iterations
+Case (32460, 32014): GCD-By-Reverse-Search = 2, taking 32013 iterations
+Case (32460, 32014): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32014): GCD-By-Euclid = 2, taking 8 iterations
+
+Case (32460, 32015): GCD-By-Def = 5, taking 32014 iterations
+Case (32460, 32015): GCD-By-Reverse-Search = 5, taking 32011 iterations
+Case (32460, 32015): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32015): GCD-By-Euclid = 5, taking 5 iterations
+
+Case (32460, 32016): GCD-By-Def = 12, taking 32015 iterations
+Case (32460, 32016): GCD-By-Reverse-Search = 12, taking 32005 iterations
+Case (32460, 32016): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32016): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32017): GCD-By-Def = 1, taking 32016 iterations
+Case (32460, 32017): GCD-By-Reverse-Search = 1, taking 32017 iterations
+Case (32460, 32017): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32017): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32018): GCD-By-Def = 2, taking 32017 iterations
+Case (32460, 32018): GCD-By-Reverse-Search = 2, taking 32017 iterations
+Case (32460, 32018): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32018): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32019): GCD-By-Def = 3, taking 32018 iterations
+Case (32460, 32019): GCD-By-Reverse-Search = 3, taking 32017 iterations
+Case (32460, 32019): GCD-By-Binary = 3, taking 16 iterations
+Case (32460, 32019): GCD-By-Euclid = 3, taking 8 iterations
+
+Case (32460, 32020): GCD-By-Def = 20, taking 32019 iterations
+Case (32460, 32020): GCD-By-Reverse-Search = 20, taking 32001 iterations
+Case (32460, 32020): GCD-By-Binary = 20, taking 13 iterations
+Case (32460, 32020): GCD-By-Euclid = 20, taking 5 iterations
+
+Case (32460, 32021): GCD-By-Def = 1, taking 32020 iterations
+Case (32460, 32021): GCD-By-Reverse-Search = 1, taking 32021 iterations
+Case (32460, 32021): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32021): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32022): GCD-By-Def = 6, taking 32021 iterations
+Case (32460, 32022): GCD-By-Reverse-Search = 6, taking 32017 iterations
+Case (32460, 32022): GCD-By-Binary = 6, taking 19 iterations
+Case (32460, 32022): GCD-By-Euclid = 6, taking 3 iterations
+
+Case (32460, 32023): GCD-By-Def = 1, taking 32022 iterations
+Case (32460, 32023): GCD-By-Reverse-Search = 1, taking 32023 iterations
+Case (32460, 32023): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32023): GCD-By-Euclid = 1, taking 9 iterations
+
+Case (32460, 32024): GCD-By-Def = 4, taking 32023 iterations
+Case (32460, 32024): GCD-By-Reverse-Search = 4, taking 32021 iterations
+Case (32460, 32024): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32024): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32025): GCD-By-Def = 15, taking 32024 iterations
+Case (32460, 32025): GCD-By-Reverse-Search = 15, taking 32011 iterations
+Case (32460, 32025): GCD-By-Binary = 15, taking 15 iterations
+Case (32460, 32025): GCD-By-Euclid = 15, taking 7 iterations
+
+Case (32460, 32026): GCD-By-Def = 2, taking 32025 iterations
+Case (32460, 32026): GCD-By-Reverse-Search = 2, taking 32025 iterations
+Case (32460, 32026): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32026): GCD-By-Euclid = 2, taking 9 iterations
+
+Case (32460, 32027): GCD-By-Def = 1, taking 32026 iterations
+Case (32460, 32027): GCD-By-Reverse-Search = 1, taking 32027 iterations
+Case (32460, 32027): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32027): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32028): GCD-By-Def = 12, taking 32027 iterations
+Case (32460, 32028): GCD-By-Reverse-Search = 12, taking 32017 iterations
+Case (32460, 32028): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32028): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32029): GCD-By-Def = 1, taking 32028 iterations
+Case (32460, 32029): GCD-By-Reverse-Search = 1, taking 32029 iterations
+Case (32460, 32029): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32029): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32030): GCD-By-Def = 10, taking 32029 iterations
+Case (32460, 32030): GCD-By-Reverse-Search = 10, taking 32021 iterations
+Case (32460, 32030): GCD-By-Binary = 10, taking 13 iterations
+Case (32460, 32030): GCD-By-Euclid = 10, taking 3 iterations
+
+Case (32460, 32031): GCD-By-Def = 3, taking 32030 iterations
+Case (32460, 32031): GCD-By-Reverse-Search = 3, taking 32029 iterations
+Case (32460, 32031): GCD-By-Binary = 3, taking 16 iterations
+Case (32460, 32031): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32032): GCD-By-Def = 4, taking 32031 iterations
+Case (32460, 32032): GCD-By-Reverse-Search = 4, taking 32029 iterations
+Case (32460, 32032): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32032): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32033): GCD-By-Def = 1, taking 32032 iterations
+Case (32460, 32033): GCD-By-Reverse-Search = 1, taking 32033 iterations
+Case (32460, 32033): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32033): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32034): GCD-By-Def = 6, taking 32033 iterations
+Case (32460, 32034): GCD-By-Reverse-Search = 6, taking 32029 iterations
+Case (32460, 32034): GCD-By-Binary = 6, taking 15 iterations
+Case (32460, 32034): GCD-By-Euclid = 6, taking 3 iterations
+
+Case (32460, 32035): GCD-By-Def = 5, taking 32034 iterations
+Case (32460, 32035): GCD-By-Reverse-Search = 5, taking 32031 iterations
+Case (32460, 32035): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32035): GCD-By-Euclid = 5, taking 6 iterations
+
+Case (32460, 32036): GCD-By-Def = 4, taking 32035 iterations
+Case (32460, 32036): GCD-By-Reverse-Search = 4, taking 32033 iterations
+Case (32460, 32036): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32036): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32037): GCD-By-Def = 3, taking 32036 iterations
+Case (32460, 32037): GCD-By-Reverse-Search = 3, taking 32035 iterations
+Case (32460, 32037): GCD-By-Binary = 3, taking 18 iterations
+Case (32460, 32037): GCD-By-Euclid = 3, taking 7 iterations
+
+Case (32460, 32038): GCD-By-Def = 2, taking 32037 iterations
+Case (32460, 32038): GCD-By-Reverse-Search = 2, taking 32037 iterations
+Case (32460, 32038): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32038): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32039): GCD-By-Def = 1, taking 32038 iterations
+Case (32460, 32039): GCD-By-Reverse-Search = 1, taking 32039 iterations
+Case (32460, 32039): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32039): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32040): GCD-By-Def = 60, taking 32039 iterations
+Case (32460, 32040): GCD-By-Reverse-Search = 60, taking 31981 iterations
+Case (32460, 32040): GCD-By-Binary = 60, taking 11 iterations
+Case (32460, 32040): GCD-By-Euclid = 60, taking 3 iterations
+
+Case (32460, 32041): GCD-By-Def = 1, taking 32040 iterations
+Case (32460, 32041): GCD-By-Reverse-Search = 1, taking 32041 iterations
+Case (32460, 32041): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32041): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32042): GCD-By-Def = 2, taking 32041 iterations
+Case (32460, 32042): GCD-By-Reverse-Search = 2, taking 32041 iterations
+Case (32460, 32042): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32042): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32043): GCD-By-Def = 3, taking 32042 iterations
+Case (32460, 32043): GCD-By-Reverse-Search = 3, taking 32041 iterations
+Case (32460, 32043): GCD-By-Binary = 3, taking 17 iterations
+Case (32460, 32043): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32044): GCD-By-Def = 4, taking 32043 iterations
+Case (32460, 32044): GCD-By-Reverse-Search = 4, taking 32041 iterations
+Case (32460, 32044): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32044): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32045): GCD-By-Def = 5, taking 32044 iterations
+Case (32460, 32045): GCD-By-Reverse-Search = 5, taking 32041 iterations
+Case (32460, 32045): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32045): GCD-By-Euclid = 5, taking 7 iterations
+
+Case (32460, 32046): GCD-By-Def = 6, taking 32045 iterations
+Case (32460, 32046): GCD-By-Reverse-Search = 6, taking 32041 iterations
+Case (32460, 32046): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32046): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32047): GCD-By-Def = 1, taking 32046 iterations
+Case (32460, 32047): GCD-By-Reverse-Search = 1, taking 32047 iterations
+Case (32460, 32047): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32047): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32048): GCD-By-Def = 4, taking 32047 iterations
+Case (32460, 32048): GCD-By-Reverse-Search = 4, taking 32045 iterations
+Case (32460, 32048): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32048): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32049): GCD-By-Def = 3, taking 32048 iterations
+Case (32460, 32049): GCD-By-Reverse-Search = 3, taking 32047 iterations
+Case (32460, 32049): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32049): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32050): GCD-By-Def = 10, taking 32049 iterations
+Case (32460, 32050): GCD-By-Reverse-Search = 10, taking 32041 iterations
+Case (32460, 32050): GCD-By-Binary = 10, taking 13 iterations
+Case (32460, 32050): GCD-By-Euclid = 10, taking 4 iterations
+
+Case (32460, 32051): GCD-By-Def = 1, taking 32050 iterations
+Case (32460, 32051): GCD-By-Reverse-Search = 1, taking 32051 iterations
+Case (32460, 32051): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32051): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32052): GCD-By-Def = 12, taking 32051 iterations
+Case (32460, 32052): GCD-By-Reverse-Search = 12, taking 32041 iterations
+Case (32460, 32052): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32052): GCD-By-Euclid = 12, taking 6 iterations
+
+Case (32460, 32053): GCD-By-Def = 1, taking 32052 iterations
+Case (32460, 32053): GCD-By-Reverse-Search = 1, taking 32053 iterations
+Case (32460, 32053): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32053): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32054): GCD-By-Def = 2, taking 32053 iterations
+Case (32460, 32054): GCD-By-Reverse-Search = 2, taking 32053 iterations
+Case (32460, 32054): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32054): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32055): GCD-By-Def = 15, taking 32054 iterations
+Case (32460, 32055): GCD-By-Reverse-Search = 15, taking 32041 iterations
+Case (32460, 32055): GCD-By-Binary = 15, taking 13 iterations
+Case (32460, 32055): GCD-By-Euclid = 15, taking 4 iterations
+
+Case (32460, 32056): GCD-By-Def = 4, taking 32055 iterations
+Case (32460, 32056): GCD-By-Reverse-Search = 4, taking 32053 iterations
+Case (32460, 32056): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32056): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32057): GCD-By-Def = 1, taking 32056 iterations
+Case (32460, 32057): GCD-By-Reverse-Search = 1, taking 32057 iterations
+Case (32460, 32057): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32057): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32058): GCD-By-Def = 6, taking 32057 iterations
+Case (32460, 32058): GCD-By-Reverse-Search = 6, taking 32053 iterations
+Case (32460, 32058): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32058): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32059): GCD-By-Def = 1, taking 32058 iterations
+Case (32460, 32059): GCD-By-Reverse-Search = 1, taking 32059 iterations
+Case (32460, 32059): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32059): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32060): GCD-By-Def = 20, taking 32059 iterations
+Case (32460, 32060): GCD-By-Reverse-Search = 20, taking 32041 iterations
+Case (32460, 32060): GCD-By-Binary = 20, taking 16 iterations
+Case (32460, 32060): GCD-By-Euclid = 20, taking 4 iterations
+
+Case (32460, 32061): GCD-By-Def = 3, taking 32060 iterations
+Case (32460, 32061): GCD-By-Reverse-Search = 3, taking 32059 iterations
+Case (32460, 32061): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32061): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32062): GCD-By-Def = 2, taking 32061 iterations
+Case (32460, 32062): GCD-By-Reverse-Search = 2, taking 32061 iterations
+Case (32460, 32062): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32062): GCD-By-Euclid = 2, taking 8 iterations
+
+Case (32460, 32063): GCD-By-Def = 1, taking 32062 iterations
+Case (32460, 32063): GCD-By-Reverse-Search = 1, taking 32063 iterations
+Case (32460, 32063): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32063): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32064): GCD-By-Def = 12, taking 32063 iterations
+Case (32460, 32064): GCD-By-Reverse-Search = 12, taking 32053 iterations
+Case (32460, 32064): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32064): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32065): GCD-By-Def = 5, taking 32064 iterations
+Case (32460, 32065): GCD-By-Reverse-Search = 5, taking 32061 iterations
+Case (32460, 32065): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32065): GCD-By-Euclid = 5, taking 6 iterations
+
+Case (32460, 32066): GCD-By-Def = 2, taking 32065 iterations
+Case (32460, 32066): GCD-By-Reverse-Search = 2, taking 32065 iterations
+Case (32460, 32066): GCD-By-Binary = 2, taking 18 iterations
+Case (32460, 32066): GCD-By-Euclid = 2, taking 8 iterations
+
+Case (32460, 32067): GCD-By-Def = 3, taking 32066 iterations
+Case (32460, 32067): GCD-By-Reverse-Search = 3, taking 32065 iterations
+Case (32460, 32067): GCD-By-Binary = 3, taking 13 iterations
+Case (32460, 32067): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32068): GCD-By-Def = 4, taking 32067 iterations
+Case (32460, 32068): GCD-By-Reverse-Search = 4, taking 32065 iterations
+Case (32460, 32068): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32068): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32069): GCD-By-Def = 1, taking 32068 iterations
+Case (32460, 32069): GCD-By-Reverse-Search = 1, taking 32069 iterations
+Case (32460, 32069): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32069): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32070): GCD-By-Def = 30, taking 32069 iterations
+Case (32460, 32070): GCD-By-Reverse-Search = 30, taking 32041 iterations
+Case (32460, 32070): GCD-By-Binary = 30, taking 11 iterations
+Case (32460, 32070): GCD-By-Euclid = 30, taking 3 iterations
+
+Case (32460, 32071): GCD-By-Def = 1, taking 32070 iterations
+Case (32460, 32071): GCD-By-Reverse-Search = 1, taking 32071 iterations
+Case (32460, 32071): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32071): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32072): GCD-By-Def = 4, taking 32071 iterations
+Case (32460, 32072): GCD-By-Reverse-Search = 4, taking 32069 iterations
+Case (32460, 32072): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32072): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32073): GCD-By-Def = 3, taking 32072 iterations
+Case (32460, 32073): GCD-By-Reverse-Search = 3, taking 32071 iterations
+Case (32460, 32073): GCD-By-Binary = 3, taking 18 iterations
+Case (32460, 32073): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32074): GCD-By-Def = 2, taking 32073 iterations
+Case (32460, 32074): GCD-By-Reverse-Search = 2, taking 32073 iterations
+Case (32460, 32074): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32074): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32075): GCD-By-Def = 5, taking 32074 iterations
+Case (32460, 32075): GCD-By-Reverse-Search = 5, taking 32071 iterations
+Case (32460, 32075): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32075): GCD-By-Euclid = 5, taking 5 iterations
+
+Case (32460, 32076): GCD-By-Def = 12, taking 32075 iterations
+Case (32460, 32076): GCD-By-Reverse-Search = 12, taking 32065 iterations
+Case (32460, 32076): GCD-By-Binary = 12, taking 20 iterations
+Case (32460, 32076): GCD-By-Euclid = 12, taking 5 iterations
+
+Case (32460, 32077): GCD-By-Def = 1, taking 32076 iterations
+Case (32460, 32077): GCD-By-Reverse-Search = 1, taking 32077 iterations
+Case (32460, 32077): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32077): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32078): GCD-By-Def = 2, taking 32077 iterations
+Case (32460, 32078): GCD-By-Reverse-Search = 2, taking 32077 iterations
+Case (32460, 32078): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32078): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32079): GCD-By-Def = 3, taking 32078 iterations
+Case (32460, 32079): GCD-By-Reverse-Search = 3, taking 32077 iterations
+Case (32460, 32079): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32079): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32080): GCD-By-Def = 20, taking 32079 iterations
+Case (32460, 32080): GCD-By-Reverse-Search = 20, taking 32061 iterations
+Case (32460, 32080): GCD-By-Binary = 20, taking 14 iterations
+Case (32460, 32080): GCD-By-Euclid = 20, taking 5 iterations
+
+Case (32460, 32081): GCD-By-Def = 1, taking 32080 iterations
+Case (32460, 32081): GCD-By-Reverse-Search = 1, taking 32081 iterations
+Case (32460, 32081): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32081): GCD-By-Euclid = 1, taking 9 iterations
+
+Case (32460, 32082): GCD-By-Def = 6, taking 32081 iterations
+Case (32460, 32082): GCD-By-Reverse-Search = 6, taking 32077 iterations
+Case (32460, 32082): GCD-By-Binary = 6, taking 16 iterations
+Case (32460, 32082): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32083): GCD-By-Def = 1, taking 32082 iterations
+Case (32460, 32083): GCD-By-Reverse-Search = 1, taking 32083 iterations
+Case (32460, 32083): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32083): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32084): GCD-By-Def = 4, taking 32083 iterations
+Case (32460, 32084): GCD-By-Reverse-Search = 4, taking 32081 iterations
+Case (32460, 32084): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32084): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32085): GCD-By-Def = 15, taking 32084 iterations
+Case (32460, 32085): GCD-By-Reverse-Search = 15, taking 32071 iterations
+Case (32460, 32085): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32085): GCD-By-Euclid = 15, taking 6 iterations
+
+Case (32460, 32086): GCD-By-Def = 2, taking 32085 iterations
+Case (32460, 32086): GCD-By-Reverse-Search = 2, taking 32085 iterations
+Case (32460, 32086): GCD-By-Binary = 2, taking 13 iterations
+Case (32460, 32086): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32087): GCD-By-Def = 1, taking 32086 iterations
+Case (32460, 32087): GCD-By-Reverse-Search = 1, taking 32087 iterations
+Case (32460, 32087): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32087): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32088): GCD-By-Def = 12, taking 32087 iterations
+Case (32460, 32088): GCD-By-Reverse-Search = 12, taking 32077 iterations
+Case (32460, 32088): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32088): GCD-By-Euclid = 12, taking 4 iterations
+
+Case (32460, 32089): GCD-By-Def = 1, taking 32088 iterations
+Case (32460, 32089): GCD-By-Reverse-Search = 1, taking 32089 iterations
+Case (32460, 32089): GCD-By-Binary = 1, taking 20 iterations
+Case (32460, 32089): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32090): GCD-By-Def = 10, taking 32089 iterations
+Case (32460, 32090): GCD-By-Reverse-Search = 10, taking 32081 iterations
+Case (32460, 32090): GCD-By-Binary = 10, taking 13 iterations
+Case (32460, 32090): GCD-By-Euclid = 10, taking 6 iterations
+
+Case (32460, 32091): GCD-By-Def = 3, taking 32090 iterations
+Case (32460, 32091): GCD-By-Reverse-Search = 3, taking 32089 iterations
+Case (32460, 32091): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32091): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32092): GCD-By-Def = 4, taking 32091 iterations
+Case (32460, 32092): GCD-By-Reverse-Search = 4, taking 32089 iterations
+Case (32460, 32092): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32092): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32093): GCD-By-Def = 1, taking 32092 iterations
+Case (32460, 32093): GCD-By-Reverse-Search = 1, taking 32093 iterations
+Case (32460, 32093): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32093): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32094): GCD-By-Def = 6, taking 32093 iterations
+Case (32460, 32094): GCD-By-Reverse-Search = 6, taking 32089 iterations
+Case (32460, 32094): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32094): GCD-By-Euclid = 6, taking 6 iterations
+
+Case (32460, 32095): GCD-By-Def = 5, taking 32094 iterations
+Case (32460, 32095): GCD-By-Reverse-Search = 5, taking 32091 iterations
+Case (32460, 32095): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32095): GCD-By-Euclid = 5, taking 6 iterations
+
+Case (32460, 32096): GCD-By-Def = 4, taking 32095 iterations
+Case (32460, 32096): GCD-By-Reverse-Search = 4, taking 32093 iterations
+Case (32460, 32096): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32096): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32097): GCD-By-Def = 3, taking 32096 iterations
+Case (32460, 32097): GCD-By-Reverse-Search = 3, taking 32095 iterations
+Case (32460, 32097): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32097): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32098): GCD-By-Def = 2, taking 32097 iterations
+Case (32460, 32098): GCD-By-Reverse-Search = 2, taking 32097 iterations
+Case (32460, 32098): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32098): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32099): GCD-By-Def = 1, taking 32098 iterations
+Case (32460, 32099): GCD-By-Reverse-Search = 1, taking 32099 iterations
+Case (32460, 32099): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32099): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32100): GCD-By-Def = 60, taking 32099 iterations
+Case (32460, 32100): GCD-By-Reverse-Search = 60, taking 32041 iterations
+Case (32460, 32100): GCD-By-Binary = 60, taking 14 iterations
+Case (32460, 32100): GCD-By-Euclid = 60, taking 2 iterations
+
+Case (32460, 32101): GCD-By-Def = 1, taking 32100 iterations
+Case (32460, 32101): GCD-By-Reverse-Search = 1, taking 32101 iterations
+Case (32460, 32101): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32101): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32102): GCD-By-Def = 2, taking 32101 iterations
+Case (32460, 32102): GCD-By-Reverse-Search = 2, taking 32101 iterations
+Case (32460, 32102): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32102): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32103): GCD-By-Def = 3, taking 32102 iterations
+Case (32460, 32103): GCD-By-Reverse-Search = 3, taking 32101 iterations
+Case (32460, 32103): GCD-By-Binary = 3, taking 17 iterations
+Case (32460, 32103): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32104): GCD-By-Def = 4, taking 32103 iterations
+Case (32460, 32104): GCD-By-Reverse-Search = 4, taking 32101 iterations
+Case (32460, 32104): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32104): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32105): GCD-By-Def = 5, taking 32104 iterations
+Case (32460, 32105): GCD-By-Reverse-Search = 5, taking 32101 iterations
+Case (32460, 32105): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32105): GCD-By-Euclid = 5, taking 5 iterations
+
+Case (32460, 32106): GCD-By-Def = 6, taking 32105 iterations
+Case (32460, 32106): GCD-By-Reverse-Search = 6, taking 32101 iterations
+Case (32460, 32106): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32106): GCD-By-Euclid = 6, taking 7 iterations
+
+Case (32460, 32107): GCD-By-Def = 1, taking 32106 iterations
+Case (32460, 32107): GCD-By-Reverse-Search = 1, taking 32107 iterations
+Case (32460, 32107): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32107): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32108): GCD-By-Def = 4, taking 32107 iterations
+Case (32460, 32108): GCD-By-Reverse-Search = 4, taking 32105 iterations
+Case (32460, 32108): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32108): GCD-By-Euclid = 4, taking 7 iterations
+
+Case (32460, 32109): GCD-By-Def = 3, taking 32108 iterations
+Case (32460, 32109): GCD-By-Reverse-Search = 3, taking 32107 iterations
+Case (32460, 32109): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32109): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32110): GCD-By-Def = 10, taking 32109 iterations
+Case (32460, 32110): GCD-By-Reverse-Search = 10, taking 32101 iterations
+Case (32460, 32110): GCD-By-Binary = 10, taking 14 iterations
+Case (32460, 32110): GCD-By-Euclid = 10, taking 5 iterations
+
+Case (32460, 32111): GCD-By-Def = 1, taking 32110 iterations
+Case (32460, 32111): GCD-By-Reverse-Search = 1, taking 32111 iterations
+Case (32460, 32111): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32111): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32112): GCD-By-Def = 12, taking 32111 iterations
+Case (32460, 32112): GCD-By-Reverse-Search = 12, taking 32101 iterations
+Case (32460, 32112): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32112): GCD-By-Euclid = 12, taking 6 iterations
+
+Case (32460, 32113): GCD-By-Def = 1, taking 32112 iterations
+Case (32460, 32113): GCD-By-Reverse-Search = 1, taking 32113 iterations
+Case (32460, 32113): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32113): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32114): GCD-By-Def = 2, taking 32113 iterations
+Case (32460, 32114): GCD-By-Reverse-Search = 2, taking 32113 iterations
+Case (32460, 32114): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32114): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32115): GCD-By-Def = 15, taking 32114 iterations
+Case (32460, 32115): GCD-By-Reverse-Search = 15, taking 32101 iterations
+Case (32460, 32115): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32115): GCD-By-Euclid = 15, taking 3 iterations
+
+Case (32460, 32116): GCD-By-Def = 4, taking 32115 iterations
+Case (32460, 32116): GCD-By-Reverse-Search = 4, taking 32113 iterations
+Case (32460, 32116): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32116): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32117): GCD-By-Def = 1, taking 32116 iterations
+Case (32460, 32117): GCD-By-Reverse-Search = 1, taking 32117 iterations
+Case (32460, 32117): GCD-By-Binary = 1, taking 20 iterations
+Case (32460, 32117): GCD-By-Euclid = 1, taking 9 iterations
+
+Case (32460, 32118): GCD-By-Def = 6, taking 32117 iterations
+Case (32460, 32118): GCD-By-Reverse-Search = 6, taking 32113 iterations
+Case (32460, 32118): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32118): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32119): GCD-By-Def = 1, taking 32118 iterations
+Case (32460, 32119): GCD-By-Reverse-Search = 1, taking 32119 iterations
+Case (32460, 32119): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32119): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32120): GCD-By-Def = 20, taking 32119 iterations
+Case (32460, 32120): GCD-By-Reverse-Search = 20, taking 32101 iterations
+Case (32460, 32120): GCD-By-Binary = 20, taking 13 iterations
+Case (32460, 32120): GCD-By-Euclid = 20, taking 3 iterations
+
+Case (32460, 32121): GCD-By-Def = 3, taking 32120 iterations
+Case (32460, 32121): GCD-By-Reverse-Search = 3, taking 32119 iterations
+Case (32460, 32121): GCD-By-Binary = 3, taking 18 iterations
+Case (32460, 32121): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32122): GCD-By-Def = 2, taking 32121 iterations
+Case (32460, 32122): GCD-By-Reverse-Search = 2, taking 32121 iterations
+Case (32460, 32122): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32122): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32123): GCD-By-Def = 1, taking 32122 iterations
+Case (32460, 32123): GCD-By-Reverse-Search = 1, taking 32123 iterations
+Case (32460, 32123): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32123): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32124): GCD-By-Def = 12, taking 32123 iterations
+Case (32460, 32124): GCD-By-Reverse-Search = 12, taking 32113 iterations
+Case (32460, 32124): GCD-By-Binary = 12, taking 16 iterations
+Case (32460, 32124): GCD-By-Euclid = 12, taking 6 iterations
+
+Case (32460, 32125): GCD-By-Def = 5, taking 32124 iterations
+Case (32460, 32125): GCD-By-Reverse-Search = 5, taking 32121 iterations
+Case (32460, 32125): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32125): GCD-By-Euclid = 5, taking 6 iterations
+
+Case (32460, 32126): GCD-By-Def = 2, taking 32125 iterations
+Case (32460, 32126): GCD-By-Reverse-Search = 2, taking 32125 iterations
+Case (32460, 32126): GCD-By-Binary = 2, taking 18 iterations
+Case (32460, 32126): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32127): GCD-By-Def = 3, taking 32126 iterations
+Case (32460, 32127): GCD-By-Reverse-Search = 3, taking 32125 iterations
+Case (32460, 32127): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32127): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32128): GCD-By-Def = 4, taking 32127 iterations
+Case (32460, 32128): GCD-By-Reverse-Search = 4, taking 32125 iterations
+Case (32460, 32128): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32128): GCD-By-Euclid = 4, taking 7 iterations
+
+Case (32460, 32129): GCD-By-Def = 1, taking 32128 iterations
+Case (32460, 32129): GCD-By-Reverse-Search = 1, taking 32129 iterations
+Case (32460, 32129): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32129): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32130): GCD-By-Def = 30, taking 32129 iterations
+Case (32460, 32130): GCD-By-Reverse-Search = 30, taking 32101 iterations
+Case (32460, 32130): GCD-By-Binary = 30, taking 11 iterations
+Case (32460, 32130): GCD-By-Euclid = 30, taking 4 iterations
+
+Case (32460, 32131): GCD-By-Def = 1, taking 32130 iterations
+Case (32460, 32131): GCD-By-Reverse-Search = 1, taking 32131 iterations
+Case (32460, 32131): GCD-By-Binary = 1, taking 20 iterations
+Case (32460, 32131): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32132): GCD-By-Def = 4, taking 32131 iterations
+Case (32460, 32132): GCD-By-Reverse-Search = 4, taking 32129 iterations
+Case (32460, 32132): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32132): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32133): GCD-By-Def = 3, taking 32132 iterations
+Case (32460, 32133): GCD-By-Reverse-Search = 3, taking 32131 iterations
+Case (32460, 32133): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32133): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32134): GCD-By-Def = 2, taking 32133 iterations
+Case (32460, 32134): GCD-By-Reverse-Search = 2, taking 32133 iterations
+Case (32460, 32134): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32134): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32135): GCD-By-Def = 5, taking 32134 iterations
+Case (32460, 32135): GCD-By-Reverse-Search = 5, taking 32131 iterations
+Case (32460, 32135): GCD-By-Binary = 5, taking 15 iterations
+Case (32460, 32135): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32136): GCD-By-Def = 12, taking 32135 iterations
+Case (32460, 32136): GCD-By-Reverse-Search = 12, taking 32125 iterations
+Case (32460, 32136): GCD-By-Binary = 12, taking 12 iterations
+Case (32460, 32136): GCD-By-Euclid = 12, taking 4 iterations
+
+Case (32460, 32137): GCD-By-Def = 1, taking 32136 iterations
+Case (32460, 32137): GCD-By-Reverse-Search = 1, taking 32137 iterations
+Case (32460, 32137): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32137): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32138): GCD-By-Def = 2, taking 32137 iterations
+Case (32460, 32138): GCD-By-Reverse-Search = 2, taking 32137 iterations
+Case (32460, 32138): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32138): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32139): GCD-By-Def = 3, taking 32138 iterations
+Case (32460, 32139): GCD-By-Reverse-Search = 3, taking 32137 iterations
+Case (32460, 32139): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32139): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32140): GCD-By-Def = 20, taking 32139 iterations
+Case (32460, 32140): GCD-By-Reverse-Search = 20, taking 32121 iterations
+Case (32460, 32140): GCD-By-Binary = 20, taking 19 iterations
+Case (32460, 32140): GCD-By-Euclid = 20, taking 4 iterations
+
+Case (32460, 32141): GCD-By-Def = 1, taking 32140 iterations
+Case (32460, 32141): GCD-By-Reverse-Search = 1, taking 32141 iterations
+Case (32460, 32141): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32141): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32142): GCD-By-Def = 6, taking 32141 iterations
+Case (32460, 32142): GCD-By-Reverse-Search = 6, taking 32137 iterations
+Case (32460, 32142): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32142): GCD-By-Euclid = 6, taking 3 iterations
+
+Case (32460, 32143): GCD-By-Def = 1, taking 32142 iterations
+Case (32460, 32143): GCD-By-Reverse-Search = 1, taking 32143 iterations
+Case (32460, 32143): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32143): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32144): GCD-By-Def = 4, taking 32143 iterations
+Case (32460, 32144): GCD-By-Reverse-Search = 4, taking 32141 iterations
+Case (32460, 32144): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32144): GCD-By-Euclid = 4, taking 7 iterations
+
+Case (32460, 32145): GCD-By-Def = 15, taking 32144 iterations
+Case (32460, 32145): GCD-By-Reverse-Search = 15, taking 32131 iterations
+Case (32460, 32145): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32145): GCD-By-Euclid = 15, taking 2 iterations
+
+Case (32460, 32146): GCD-By-Def = 2, taking 32145 iterations
+Case (32460, 32146): GCD-By-Reverse-Search = 2, taking 32145 iterations
+Case (32460, 32146): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32146): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32147): GCD-By-Def = 1, taking 32146 iterations
+Case (32460, 32147): GCD-By-Reverse-Search = 1, taking 32147 iterations
+Case (32460, 32147): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32147): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32148): GCD-By-Def = 12, taking 32147 iterations
+Case (32460, 32148): GCD-By-Reverse-Search = 12, taking 32137 iterations
+Case (32460, 32148): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32148): GCD-By-Euclid = 12, taking 2 iterations
+
+Case (32460, 32149): GCD-By-Def = 1, taking 32148 iterations
+Case (32460, 32149): GCD-By-Reverse-Search = 1, taking 32149 iterations
+Case (32460, 32149): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32149): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32150): GCD-By-Def = 10, taking 32149 iterations
+Case (32460, 32150): GCD-By-Reverse-Search = 10, taking 32141 iterations
+Case (32460, 32150): GCD-By-Binary = 10, taking 13 iterations
+Case (32460, 32150): GCD-By-Euclid = 10, taking 5 iterations
+
+Case (32460, 32151): GCD-By-Def = 3, taking 32150 iterations
+Case (32460, 32151): GCD-By-Reverse-Search = 3, taking 32149 iterations
+Case (32460, 32151): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32151): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32152): GCD-By-Def = 4, taking 32151 iterations
+Case (32460, 32152): GCD-By-Reverse-Search = 4, taking 32149 iterations
+Case (32460, 32152): GCD-By-Binary = 4, taking 13 iterations
+Case (32460, 32152): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32153): GCD-By-Def = 1, taking 32152 iterations
+Case (32460, 32153): GCD-By-Reverse-Search = 1, taking 32153 iterations
+Case (32460, 32153): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32153): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32154): GCD-By-Def = 6, taking 32153 iterations
+Case (32460, 32154): GCD-By-Reverse-Search = 6, taking 32149 iterations
+Case (32460, 32154): GCD-By-Binary = 6, taking 17 iterations
+Case (32460, 32154): GCD-By-Euclid = 6, taking 4 iterations
+
+Case (32460, 32155): GCD-By-Def = 5, taking 32154 iterations
+Case (32460, 32155): GCD-By-Reverse-Search = 5, taking 32151 iterations
+Case (32460, 32155): GCD-By-Binary = 5, taking 16 iterations
+Case (32460, 32155): GCD-By-Euclid = 5, taking 5 iterations
+
+Case (32460, 32156): GCD-By-Def = 4, taking 32155 iterations
+Case (32460, 32156): GCD-By-Reverse-Search = 4, taking 32153 iterations
+Case (32460, 32156): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32156): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32157): GCD-By-Def = 3, taking 32156 iterations
+Case (32460, 32157): GCD-By-Reverse-Search = 3, taking 32155 iterations
+Case (32460, 32157): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32157): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32158): GCD-By-Def = 2, taking 32157 iterations
+Case (32460, 32158): GCD-By-Reverse-Search = 2, taking 32157 iterations
+Case (32460, 32158): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32158): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32159): GCD-By-Def = 1, taking 32158 iterations
+Case (32460, 32159): GCD-By-Reverse-Search = 1, taking 32159 iterations
+Case (32460, 32159): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32159): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32160): GCD-By-Def = 60, taking 32159 iterations
+Case (32460, 32160): GCD-By-Reverse-Search = 60, taking 32101 iterations
+Case (32460, 32160): GCD-By-Binary = 60, taking 12 iterations
+Case (32460, 32160): GCD-By-Euclid = 60, taking 2 iterations
+
+Case (32460, 32161): GCD-By-Def = 1, taking 32160 iterations
+Case (32460, 32161): GCD-By-Reverse-Search = 1, taking 32161 iterations
+Case (32460, 32161): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32161): GCD-By-Euclid = 1, taking 9 iterations
+
+Case (32460, 32162): GCD-By-Def = 2, taking 32161 iterations
+Case (32460, 32162): GCD-By-Reverse-Search = 2, taking 32161 iterations
+Case (32460, 32162): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32162): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32163): GCD-By-Def = 3, taking 32162 iterations
+Case (32460, 32163): GCD-By-Reverse-Search = 3, taking 32161 iterations
+Case (32460, 32163): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32163): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32164): GCD-By-Def = 4, taking 32163 iterations
+Case (32460, 32164): GCD-By-Reverse-Search = 4, taking 32161 iterations
+Case (32460, 32164): GCD-By-Binary = 4, taking 19 iterations
+Case (32460, 32164): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32165): GCD-By-Def = 5, taking 32164 iterations
+Case (32460, 32165): GCD-By-Reverse-Search = 5, taking 32161 iterations
+Case (32460, 32165): GCD-By-Binary = 5, taking 15 iterations
+Case (32460, 32165): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32166): GCD-By-Def = 6, taking 32165 iterations
+Case (32460, 32166): GCD-By-Reverse-Search = 6, taking 32161 iterations
+Case (32460, 32166): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32166): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32167): GCD-By-Def = 1, taking 32166 iterations
+Case (32460, 32167): GCD-By-Reverse-Search = 1, taking 32167 iterations
+Case (32460, 32167): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32167): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32168): GCD-By-Def = 4, taking 32167 iterations
+Case (32460, 32168): GCD-By-Reverse-Search = 4, taking 32165 iterations
+Case (32460, 32168): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32168): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32169): GCD-By-Def = 3, taking 32168 iterations
+Case (32460, 32169): GCD-By-Reverse-Search = 3, taking 32167 iterations
+Case (32460, 32169): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32169): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32170): GCD-By-Def = 10, taking 32169 iterations
+Case (32460, 32170): GCD-By-Reverse-Search = 10, taking 32161 iterations
+Case (32460, 32170): GCD-By-Binary = 10, taking 15 iterations
+Case (32460, 32170): GCD-By-Euclid = 10, taking 4 iterations
+
+Case (32460, 32171): GCD-By-Def = 1, taking 32170 iterations
+Case (32460, 32171): GCD-By-Reverse-Search = 1, taking 32171 iterations
+Case (32460, 32171): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32171): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32172): GCD-By-Def = 12, taking 32171 iterations
+Case (32460, 32172): GCD-By-Reverse-Search = 12, taking 32161 iterations
+Case (32460, 32172): GCD-By-Binary = 12, taking 19 iterations
+Case (32460, 32172): GCD-By-Euclid = 12, taking 5 iterations
+
+Case (32460, 32173): GCD-By-Def = 1, taking 32172 iterations
+Case (32460, 32173): GCD-By-Reverse-Search = 1, taking 32173 iterations
+Case (32460, 32173): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32173): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32174): GCD-By-Def = 2, taking 32173 iterations
+Case (32460, 32174): GCD-By-Reverse-Search = 2, taking 32173 iterations
+Case (32460, 32174): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32174): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32175): GCD-By-Def = 15, taking 32174 iterations
+Case (32460, 32175): GCD-By-Reverse-Search = 15, taking 32161 iterations
+Case (32460, 32175): GCD-By-Binary = 15, taking 15 iterations
+Case (32460, 32175): GCD-By-Euclid = 15, taking 4 iterations
+
+Case (32460, 32176): GCD-By-Def = 4, taking 32175 iterations
+Case (32460, 32176): GCD-By-Reverse-Search = 4, taking 32173 iterations
+Case (32460, 32176): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32176): GCD-By-Euclid = 4, taking 7 iterations
+
+Case (32460, 32177): GCD-By-Def = 1, taking 32176 iterations
+Case (32460, 32177): GCD-By-Reverse-Search = 1, taking 32177 iterations
+Case (32460, 32177): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32177): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32178): GCD-By-Def = 6, taking 32177 iterations
+Case (32460, 32178): GCD-By-Reverse-Search = 6, taking 32173 iterations
+Case (32460, 32178): GCD-By-Binary = 6, taking 15 iterations
+Case (32460, 32178): GCD-By-Euclid = 6, taking 4 iterations
+
+Case (32460, 32179): GCD-By-Def = 1, taking 32178 iterations
+Case (32460, 32179): GCD-By-Reverse-Search = 1, taking 32179 iterations
+Case (32460, 32179): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32179): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32180): GCD-By-Def = 20, taking 32179 iterations
+Case (32460, 32180): GCD-By-Reverse-Search = 20, taking 32161 iterations
+Case (32460, 32180): GCD-By-Binary = 20, taking 13 iterations
+Case (32460, 32180): GCD-By-Euclid = 20, taking 3 iterations
+
+Case (32460, 32181): GCD-By-Def = 3, taking 32180 iterations
+Case (32460, 32181): GCD-By-Reverse-Search = 3, taking 32179 iterations
+Case (32460, 32181): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32181): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32182): GCD-By-Def = 2, taking 32181 iterations
+Case (32460, 32182): GCD-By-Reverse-Search = 2, taking 32181 iterations
+Case (32460, 32182): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32182): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32183): GCD-By-Def = 1, taking 32182 iterations
+Case (32460, 32183): GCD-By-Reverse-Search = 1, taking 32183 iterations
+Case (32460, 32183): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32183): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32184): GCD-By-Def = 12, taking 32183 iterations
+Case (32460, 32184): GCD-By-Reverse-Search = 12, taking 32173 iterations
+Case (32460, 32184): GCD-By-Binary = 12, taking 13 iterations
+Case (32460, 32184): GCD-By-Euclid = 12, taking 6 iterations
+
+Case (32460, 32185): GCD-By-Def = 5, taking 32184 iterations
+Case (32460, 32185): GCD-By-Reverse-Search = 5, taking 32181 iterations
+Case (32460, 32185): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32185): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32186): GCD-By-Def = 2, taking 32185 iterations
+Case (32460, 32186): GCD-By-Reverse-Search = 2, taking 32185 iterations
+Case (32460, 32186): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32186): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32187): GCD-By-Def = 3, taking 32186 iterations
+Case (32460, 32187): GCD-By-Reverse-Search = 3, taking 32185 iterations
+Case (32460, 32187): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32187): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32188): GCD-By-Def = 4, taking 32187 iterations
+Case (32460, 32188): GCD-By-Reverse-Search = 4, taking 32185 iterations
+Case (32460, 32188): GCD-By-Binary = 4, taking 21 iterations
+Case (32460, 32188): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32189): GCD-By-Def = 1, taking 32188 iterations
+Case (32460, 32189): GCD-By-Reverse-Search = 1, taking 32189 iterations
+Case (32460, 32189): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32189): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32190): GCD-By-Def = 30, taking 32189 iterations
+Case (32460, 32190): GCD-By-Reverse-Search = 30, taking 32161 iterations
+Case (32460, 32190): GCD-By-Binary = 30, taking 10 iterations
+Case (32460, 32190): GCD-By-Euclid = 30, taking 3 iterations
+
+Case (32460, 32191): GCD-By-Def = 1, taking 32190 iterations
+Case (32460, 32191): GCD-By-Reverse-Search = 1, taking 32191 iterations
+Case (32460, 32191): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32191): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32192): GCD-By-Def = 4, taking 32191 iterations
+Case (32460, 32192): GCD-By-Reverse-Search = 4, taking 32189 iterations
+Case (32460, 32192): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32192): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32193): GCD-By-Def = 3, taking 32192 iterations
+Case (32460, 32193): GCD-By-Reverse-Search = 3, taking 32191 iterations
+Case (32460, 32193): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32193): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32194): GCD-By-Def = 2, taking 32193 iterations
+Case (32460, 32194): GCD-By-Reverse-Search = 2, taking 32193 iterations
+Case (32460, 32194): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32194): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32195): GCD-By-Def = 5, taking 32194 iterations
+Case (32460, 32195): GCD-By-Reverse-Search = 5, taking 32191 iterations
+Case (32460, 32195): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32195): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32196): GCD-By-Def = 12, taking 32195 iterations
+Case (32460, 32196): GCD-By-Reverse-Search = 12, taking 32185 iterations
+Case (32460, 32196): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32196): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32197): GCD-By-Def = 1, taking 32196 iterations
+Case (32460, 32197): GCD-By-Reverse-Search = 1, taking 32197 iterations
+Case (32460, 32197): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32197): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32198): GCD-By-Def = 2, taking 32197 iterations
+Case (32460, 32198): GCD-By-Reverse-Search = 2, taking 32197 iterations
+Case (32460, 32198): GCD-By-Binary = 2, taking 18 iterations
+Case (32460, 32198): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32199): GCD-By-Def = 3, taking 32198 iterations
+Case (32460, 32199): GCD-By-Reverse-Search = 3, taking 32197 iterations
+Case (32460, 32199): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32199): GCD-By-Euclid = 3, taking 7 iterations
+
+Case (32460, 32200): GCD-By-Def = 20, taking 32199 iterations
+Case (32460, 32200): GCD-By-Reverse-Search = 20, taking 32181 iterations
+Case (32460, 32200): GCD-By-Binary = 20, taking 14 iterations
+Case (32460, 32200): GCD-By-Euclid = 20, taking 4 iterations
+
+Case (32460, 32201): GCD-By-Def = 1, taking 32200 iterations
+Case (32460, 32201): GCD-By-Reverse-Search = 1, taking 32201 iterations
+Case (32460, 32201): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32201): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32202): GCD-By-Def = 6, taking 32201 iterations
+Case (32460, 32202): GCD-By-Reverse-Search = 6, taking 32197 iterations
+Case (32460, 32202): GCD-By-Binary = 6, taking 17 iterations
+Case (32460, 32202): GCD-By-Euclid = 6, taking 6 iterations
+
+Case (32460, 32203): GCD-By-Def = 1, taking 32202 iterations
+Case (32460, 32203): GCD-By-Reverse-Search = 1, taking 32203 iterations
+Case (32460, 32203): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32203): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32204): GCD-By-Def = 4, taking 32203 iterations
+Case (32460, 32204): GCD-By-Reverse-Search = 4, taking 32201 iterations
+Case (32460, 32204): GCD-By-Binary = 4, taking 26 iterations
+Case (32460, 32204): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32205): GCD-By-Def = 15, taking 32204 iterations
+Case (32460, 32205): GCD-By-Reverse-Search = 15, taking 32191 iterations
+Case (32460, 32205): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32205): GCD-By-Euclid = 15, taking 4 iterations
+
+Case (32460, 32206): GCD-By-Def = 2, taking 32205 iterations
+Case (32460, 32206): GCD-By-Reverse-Search = 2, taking 32205 iterations
+Case (32460, 32206): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32206): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32207): GCD-By-Def = 1, taking 32206 iterations
+Case (32460, 32207): GCD-By-Reverse-Search = 1, taking 32207 iterations
+Case (32460, 32207): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32207): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32208): GCD-By-Def = 12, taking 32207 iterations
+Case (32460, 32208): GCD-By-Reverse-Search = 12, taking 32197 iterations
+Case (32460, 32208): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32208): GCD-By-Euclid = 12, taking 4 iterations
+
+Case (32460, 32209): GCD-By-Def = 1, taking 32208 iterations
+Case (32460, 32209): GCD-By-Reverse-Search = 1, taking 32209 iterations
+Case (32460, 32209): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32209): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32210): GCD-By-Def = 10, taking 32209 iterations
+Case (32460, 32210): GCD-By-Reverse-Search = 10, taking 32201 iterations
+Case (32460, 32210): GCD-By-Binary = 10, taking 12 iterations
+Case (32460, 32210): GCD-By-Euclid = 10, taking 4 iterations
+
+Case (32460, 32211): GCD-By-Def = 3, taking 32210 iterations
+Case (32460, 32211): GCD-By-Reverse-Search = 3, taking 32209 iterations
+Case (32460, 32211): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32211): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32212): GCD-By-Def = 4, taking 32211 iterations
+Case (32460, 32212): GCD-By-Reverse-Search = 4, taking 32209 iterations
+Case (32460, 32212): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32212): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32213): GCD-By-Def = 1, taking 32212 iterations
+Case (32460, 32213): GCD-By-Reverse-Search = 1, taking 32213 iterations
+Case (32460, 32213): GCD-By-Binary = 1, taking 21 iterations
+Case (32460, 32213): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32214): GCD-By-Def = 6, taking 32213 iterations
+Case (32460, 32214): GCD-By-Reverse-Search = 6, taking 32209 iterations
+Case (32460, 32214): GCD-By-Binary = 6, taking 17 iterations
+Case (32460, 32214): GCD-By-Euclid = 6, taking 4 iterations
+
+Case (32460, 32215): GCD-By-Def = 5, taking 32214 iterations
+Case (32460, 32215): GCD-By-Reverse-Search = 5, taking 32211 iterations
+Case (32460, 32215): GCD-By-Binary = 5, taking 15 iterations
+Case (32460, 32215): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32216): GCD-By-Def = 4, taking 32215 iterations
+Case (32460, 32216): GCD-By-Reverse-Search = 4, taking 32213 iterations
+Case (32460, 32216): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32216): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32217): GCD-By-Def = 3, taking 32216 iterations
+Case (32460, 32217): GCD-By-Reverse-Search = 3, taking 32215 iterations
+Case (32460, 32217): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32217): GCD-By-Euclid = 3, taking 9 iterations
+
+Case (32460, 32218): GCD-By-Def = 2, taking 32217 iterations
+Case (32460, 32218): GCD-By-Reverse-Search = 2, taking 32217 iterations
+Case (32460, 32218): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32218): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32219): GCD-By-Def = 1, taking 32218 iterations
+Case (32460, 32219): GCD-By-Reverse-Search = 1, taking 32219 iterations
+Case (32460, 32219): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32219): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32220): GCD-By-Def = 60, taking 32219 iterations
+Case (32460, 32220): GCD-By-Reverse-Search = 60, taking 32161 iterations
+Case (32460, 32220): GCD-By-Binary = 60, taking 13 iterations
+Case (32460, 32220): GCD-By-Euclid = 60, taking 2 iterations
+
+Case (32460, 32221): GCD-By-Def = 1, taking 32220 iterations
+Case (32460, 32221): GCD-By-Reverse-Search = 1, taking 32221 iterations
+Case (32460, 32221): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32221): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32222): GCD-By-Def = 2, taking 32221 iterations
+Case (32460, 32222): GCD-By-Reverse-Search = 2, taking 32221 iterations
+Case (32460, 32222): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32222): GCD-By-Euclid = 2, taking 8 iterations
+
+Case (32460, 32223): GCD-By-Def = 3, taking 32222 iterations
+Case (32460, 32223): GCD-By-Reverse-Search = 3, taking 32221 iterations
+Case (32460, 32223): GCD-By-Binary = 3, taking 17 iterations
+Case (32460, 32223): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32224): GCD-By-Def = 4, taking 32223 iterations
+Case (32460, 32224): GCD-By-Reverse-Search = 4, taking 32221 iterations
+Case (32460, 32224): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32224): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32225): GCD-By-Def = 5, taking 32224 iterations
+Case (32460, 32225): GCD-By-Reverse-Search = 5, taking 32221 iterations
+Case (32460, 32225): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32225): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32226): GCD-By-Def = 6, taking 32225 iterations
+Case (32460, 32226): GCD-By-Reverse-Search = 6, taking 32221 iterations
+Case (32460, 32226): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32226): GCD-By-Euclid = 6, taking 6 iterations
+
+Case (32460, 32227): GCD-By-Def = 1, taking 32226 iterations
+Case (32460, 32227): GCD-By-Reverse-Search = 1, taking 32227 iterations
+Case (32460, 32227): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32227): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32228): GCD-By-Def = 4, taking 32227 iterations
+Case (32460, 32228): GCD-By-Reverse-Search = 4, taking 32225 iterations
+Case (32460, 32228): GCD-By-Binary = 4, taking 19 iterations
+Case (32460, 32228): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32229): GCD-By-Def = 3, taking 32228 iterations
+Case (32460, 32229): GCD-By-Reverse-Search = 3, taking 32227 iterations
+Case (32460, 32229): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32229): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32230): GCD-By-Def = 10, taking 32229 iterations
+Case (32460, 32230): GCD-By-Reverse-Search = 10, taking 32221 iterations
+Case (32460, 32230): GCD-By-Binary = 10, taking 13 iterations
+Case (32460, 32230): GCD-By-Euclid = 10, taking 4 iterations
+
+Case (32460, 32231): GCD-By-Def = 1, taking 32230 iterations
+Case (32460, 32231): GCD-By-Reverse-Search = 1, taking 32231 iterations
+Case (32460, 32231): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32231): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32232): GCD-By-Def = 12, taking 32231 iterations
+Case (32460, 32232): GCD-By-Reverse-Search = 12, taking 32221 iterations
+Case (32460, 32232): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32232): GCD-By-Euclid = 12, taking 5 iterations
+
+Case (32460, 32233): GCD-By-Def = 1, taking 32232 iterations
+Case (32460, 32233): GCD-By-Reverse-Search = 1, taking 32233 iterations
+Case (32460, 32233): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32233): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32234): GCD-By-Def = 2, taking 32233 iterations
+Case (32460, 32234): GCD-By-Reverse-Search = 2, taking 32233 iterations
+Case (32460, 32234): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32234): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32235): GCD-By-Def = 15, taking 32234 iterations
+Case (32460, 32235): GCD-By-Reverse-Search = 15, taking 32221 iterations
+Case (32460, 32235): GCD-By-Binary = 15, taking 14 iterations
+Case (32460, 32235): GCD-By-Euclid = 15, taking 4 iterations
+
+Case (32460, 32236): GCD-By-Def = 4, taking 32235 iterations
+Case (32460, 32236): GCD-By-Reverse-Search = 4, taking 32233 iterations
+Case (32460, 32236): GCD-By-Binary = 4, taking 21 iterations
+Case (32460, 32236): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32237): GCD-By-Def = 1, taking 32236 iterations
+Case (32460, 32237): GCD-By-Reverse-Search = 1, taking 32237 iterations
+Case (32460, 32237): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32237): GCD-By-Euclid = 1, taking 9 iterations
+
+Case (32460, 32238): GCD-By-Def = 6, taking 32237 iterations
+Case (32460, 32238): GCD-By-Reverse-Search = 6, taking 32233 iterations
+Case (32460, 32238): GCD-By-Binary = 6, taking 12 iterations
+Case (32460, 32238): GCD-By-Euclid = 6, taking 6 iterations
+
+Case (32460, 32239): GCD-By-Def = 1, taking 32238 iterations
+Case (32460, 32239): GCD-By-Reverse-Search = 1, taking 32239 iterations
+Case (32460, 32239): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32239): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32240): GCD-By-Def = 20, taking 32239 iterations
+Case (32460, 32240): GCD-By-Reverse-Search = 20, taking 32221 iterations
+Case (32460, 32240): GCD-By-Binary = 20, taking 13 iterations
+Case (32460, 32240): GCD-By-Euclid = 20, taking 4 iterations
+
+Case (32460, 32241): GCD-By-Def = 3, taking 32240 iterations
+Case (32460, 32241): GCD-By-Reverse-Search = 3, taking 32239 iterations
+Case (32460, 32241): GCD-By-Binary = 3, taking 20 iterations
+Case (32460, 32241): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32242): GCD-By-Def = 2, taking 32241 iterations
+Case (32460, 32242): GCD-By-Reverse-Search = 2, taking 32241 iterations
+Case (32460, 32242): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32242): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32243): GCD-By-Def = 1, taking 32242 iterations
+Case (32460, 32243): GCD-By-Reverse-Search = 1, taking 32243 iterations
+Case (32460, 32243): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32243): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32244): GCD-By-Def = 12, taking 32243 iterations
+Case (32460, 32244): GCD-By-Reverse-Search = 12, taking 32233 iterations
+Case (32460, 32244): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32244): GCD-By-Euclid = 12, taking 5 iterations
+
+Case (32460, 32245): GCD-By-Def = 5, taking 32244 iterations
+Case (32460, 32245): GCD-By-Reverse-Search = 5, taking 32241 iterations
+Case (32460, 32245): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32245): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32246): GCD-By-Def = 2, taking 32245 iterations
+Case (32460, 32246): GCD-By-Reverse-Search = 2, taking 32245 iterations
+Case (32460, 32246): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32246): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32247): GCD-By-Def = 3, taking 32246 iterations
+Case (32460, 32247): GCD-By-Reverse-Search = 3, taking 32245 iterations
+Case (32460, 32247): GCD-By-Binary = 3, taking 16 iterations
+Case (32460, 32247): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32248): GCD-By-Def = 4, taking 32247 iterations
+Case (32460, 32248): GCD-By-Reverse-Search = 4, taking 32245 iterations
+Case (32460, 32248): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32248): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32249): GCD-By-Def = 1, taking 32248 iterations
+Case (32460, 32249): GCD-By-Reverse-Search = 1, taking 32249 iterations
+Case (32460, 32249): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32249): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32250): GCD-By-Def = 30, taking 32249 iterations
+Case (32460, 32250): GCD-By-Reverse-Search = 30, taking 32221 iterations
+Case (32460, 32250): GCD-By-Binary = 30, taking 11 iterations
+Case (32460, 32250): GCD-By-Euclid = 30, taking 4 iterations
+
+Case (32460, 32251): GCD-By-Def = 1, taking 32250 iterations
+Case (32460, 32251): GCD-By-Reverse-Search = 1, taking 32251 iterations
+Case (32460, 32251): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32251): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32252): GCD-By-Def = 4, taking 32251 iterations
+Case (32460, 32252): GCD-By-Reverse-Search = 4, taking 32249 iterations
+Case (32460, 32252): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32252): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32253): GCD-By-Def = 3, taking 32252 iterations
+Case (32460, 32253): GCD-By-Reverse-Search = 3, taking 32251 iterations
+Case (32460, 32253): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32253): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32254): GCD-By-Def = 2, taking 32253 iterations
+Case (32460, 32254): GCD-By-Reverse-Search = 2, taking 32253 iterations
+Case (32460, 32254): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32254): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32255): GCD-By-Def = 5, taking 32254 iterations
+Case (32460, 32255): GCD-By-Reverse-Search = 5, taking 32251 iterations
+Case (32460, 32255): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32255): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32256): GCD-By-Def = 12, taking 32255 iterations
+Case (32460, 32256): GCD-By-Reverse-Search = 12, taking 32245 iterations
+Case (32460, 32256): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32256): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32257): GCD-By-Def = 1, taking 32256 iterations
+Case (32460, 32257): GCD-By-Reverse-Search = 1, taking 32257 iterations
+Case (32460, 32257): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32257): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32258): GCD-By-Def = 2, taking 32257 iterations
+Case (32460, 32258): GCD-By-Reverse-Search = 2, taking 32257 iterations
+Case (32460, 32258): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32258): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32259): GCD-By-Def = 3, taking 32258 iterations
+Case (32460, 32259): GCD-By-Reverse-Search = 3, taking 32257 iterations
+Case (32460, 32259): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32259): GCD-By-Euclid = 3, taking 3 iterations
+
+Case (32460, 32260): GCD-By-Def = 20, taking 32259 iterations
+Case (32460, 32260): GCD-By-Reverse-Search = 20, taking 32241 iterations
+Case (32460, 32260): GCD-By-Binary = 20, taking 15 iterations
+Case (32460, 32260): GCD-By-Euclid = 20, taking 3 iterations
+
+Case (32460, 32261): GCD-By-Def = 1, taking 32260 iterations
+Case (32460, 32261): GCD-By-Reverse-Search = 1, taking 32261 iterations
+Case (32460, 32261): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32261): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32262): GCD-By-Def = 6, taking 32261 iterations
+Case (32460, 32262): GCD-By-Reverse-Search = 6, taking 32257 iterations
+Case (32460, 32262): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32262): GCD-By-Euclid = 6, taking 4 iterations
+
+Case (32460, 32263): GCD-By-Def = 1, taking 32262 iterations
+Case (32460, 32263): GCD-By-Reverse-Search = 1, taking 32263 iterations
+Case (32460, 32263): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32263): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32264): GCD-By-Def = 4, taking 32263 iterations
+Case (32460, 32264): GCD-By-Reverse-Search = 4, taking 32261 iterations
+Case (32460, 32264): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32264): GCD-By-Euclid = 4, taking 8 iterations
+
+Case (32460, 32265): GCD-By-Def = 15, taking 32264 iterations
+Case (32460, 32265): GCD-By-Reverse-Search = 15, taking 32251 iterations
+Case (32460, 32265): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32265): GCD-By-Euclid = 15, taking 3 iterations
+
+Case (32460, 32266): GCD-By-Def = 2, taking 32265 iterations
+Case (32460, 32266): GCD-By-Reverse-Search = 2, taking 32265 iterations
+Case (32460, 32266): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32266): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32267): GCD-By-Def = 1, taking 32266 iterations
+Case (32460, 32267): GCD-By-Reverse-Search = 1, taking 32267 iterations
+Case (32460, 32267): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32267): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32268): GCD-By-Def = 12, taking 32267 iterations
+Case (32460, 32268): GCD-By-Reverse-Search = 12, taking 32257 iterations
+Case (32460, 32268): GCD-By-Binary = 12, taking 20 iterations
+Case (32460, 32268): GCD-By-Euclid = 12, taking 2 iterations
+
+Case (32460, 32269): GCD-By-Def = 1, taking 32268 iterations
+Case (32460, 32269): GCD-By-Reverse-Search = 1, taking 32269 iterations
+Case (32460, 32269): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32269): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32270): GCD-By-Def = 10, taking 32269 iterations
+Case (32460, 32270): GCD-By-Reverse-Search = 10, taking 32261 iterations
+Case (32460, 32270): GCD-By-Binary = 10, taking 13 iterations
+Case (32460, 32270): GCD-By-Euclid = 10, taking 4 iterations
+
+Case (32460, 32271): GCD-By-Def = 3, taking 32270 iterations
+Case (32460, 32271): GCD-By-Reverse-Search = 3, taking 32269 iterations
+Case (32460, 32271): GCD-By-Binary = 3, taking 17 iterations
+Case (32460, 32271): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32272): GCD-By-Def = 4, taking 32271 iterations
+Case (32460, 32272): GCD-By-Reverse-Search = 4, taking 32269 iterations
+Case (32460, 32272): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32272): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32273): GCD-By-Def = 1, taking 32272 iterations
+Case (32460, 32273): GCD-By-Reverse-Search = 1, taking 32273 iterations
+Case (32460, 32273): GCD-By-Binary = 1, taking 14 iterations
+Case (32460, 32273): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32274): GCD-By-Def = 6, taking 32273 iterations
+Case (32460, 32274): GCD-By-Reverse-Search = 6, taking 32269 iterations
+Case (32460, 32274): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32274): GCD-By-Euclid = 6, taking 4 iterations
+
+Case (32460, 32275): GCD-By-Def = 5, taking 32274 iterations
+Case (32460, 32275): GCD-By-Reverse-Search = 5, taking 32271 iterations
+Case (32460, 32275): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32275): GCD-By-Euclid = 5, taking 5 iterations
+
+Case (32460, 32276): GCD-By-Def = 4, taking 32275 iterations
+Case (32460, 32276): GCD-By-Reverse-Search = 4, taking 32273 iterations
+Case (32460, 32276): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32276): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32277): GCD-By-Def = 3, taking 32276 iterations
+Case (32460, 32277): GCD-By-Reverse-Search = 3, taking 32275 iterations
+Case (32460, 32277): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32277): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32278): GCD-By-Def = 2, taking 32277 iterations
+Case (32460, 32278): GCD-By-Reverse-Search = 2, taking 32277 iterations
+Case (32460, 32278): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32278): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32279): GCD-By-Def = 1, taking 32278 iterations
+Case (32460, 32279): GCD-By-Reverse-Search = 1, taking 32279 iterations
+Case (32460, 32279): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32279): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32280): GCD-By-Def = 60, taking 32279 iterations
+Case (32460, 32280): GCD-By-Reverse-Search = 60, taking 32221 iterations
+Case (32460, 32280): GCD-By-Binary = 60, taking 10 iterations
+Case (32460, 32280): GCD-By-Euclid = 60, taking 2 iterations
+
+Case (32460, 32281): GCD-By-Def = 1, taking 32280 iterations
+Case (32460, 32281): GCD-By-Reverse-Search = 1, taking 32281 iterations
+Case (32460, 32281): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32281): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32282): GCD-By-Def = 2, taking 32281 iterations
+Case (32460, 32282): GCD-By-Reverse-Search = 2, taking 32281 iterations
+Case (32460, 32282): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32282): GCD-By-Euclid = 2, taking 7 iterations
+
+Case (32460, 32283): GCD-By-Def = 3, taking 32282 iterations
+Case (32460, 32283): GCD-By-Reverse-Search = 3, taking 32281 iterations
+Case (32460, 32283): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32283): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32284): GCD-By-Def = 4, taking 32283 iterations
+Case (32460, 32284): GCD-By-Reverse-Search = 4, taking 32281 iterations
+Case (32460, 32284): GCD-By-Binary = 4, taking 19 iterations
+Case (32460, 32284): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32285): GCD-By-Def = 5, taking 32284 iterations
+Case (32460, 32285): GCD-By-Reverse-Search = 5, taking 32281 iterations
+Case (32460, 32285): GCD-By-Binary = 5, taking 15 iterations
+Case (32460, 32285): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32286): GCD-By-Def = 6, taking 32285 iterations
+Case (32460, 32286): GCD-By-Reverse-Search = 6, taking 32281 iterations
+Case (32460, 32286): GCD-By-Binary = 6, taking 15 iterations
+Case (32460, 32286): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32287): GCD-By-Def = 1, taking 32286 iterations
+Case (32460, 32287): GCD-By-Reverse-Search = 1, taking 32287 iterations
+Case (32460, 32287): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32287): GCD-By-Euclid = 1, taking 9 iterations
+
+Case (32460, 32288): GCD-By-Def = 4, taking 32287 iterations
+Case (32460, 32288): GCD-By-Reverse-Search = 4, taking 32285 iterations
+Case (32460, 32288): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32288): GCD-By-Euclid = 4, taking 7 iterations
+
+Case (32460, 32289): GCD-By-Def = 3, taking 32288 iterations
+Case (32460, 32289): GCD-By-Reverse-Search = 3, taking 32287 iterations
+Case (32460, 32289): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32289): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32290): GCD-By-Def = 10, taking 32289 iterations
+Case (32460, 32290): GCD-By-Reverse-Search = 10, taking 32281 iterations
+Case (32460, 32290): GCD-By-Binary = 10, taking 12 iterations
+Case (32460, 32290): GCD-By-Euclid = 10, taking 3 iterations
+
+Case (32460, 32291): GCD-By-Def = 1, taking 32290 iterations
+Case (32460, 32291): GCD-By-Reverse-Search = 1, taking 32291 iterations
+Case (32460, 32291): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32291): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32292): GCD-By-Def = 12, taking 32291 iterations
+Case (32460, 32292): GCD-By-Reverse-Search = 12, taking 32281 iterations
+Case (32460, 32292): GCD-By-Binary = 12, taking 16 iterations
+Case (32460, 32292): GCD-By-Euclid = 12, taking 4 iterations
+
+Case (32460, 32293): GCD-By-Def = 1, taking 32292 iterations
+Case (32460, 32293): GCD-By-Reverse-Search = 1, taking 32293 iterations
+Case (32460, 32293): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32293): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32294): GCD-By-Def = 2, taking 32293 iterations
+Case (32460, 32294): GCD-By-Reverse-Search = 2, taking 32293 iterations
+Case (32460, 32294): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32294): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32295): GCD-By-Def = 15, taking 32294 iterations
+Case (32460, 32295): GCD-By-Reverse-Search = 15, taking 32281 iterations
+Case (32460, 32295): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32295): GCD-By-Euclid = 15, taking 5 iterations
+
+Case (32460, 32296): GCD-By-Def = 4, taking 32295 iterations
+Case (32460, 32296): GCD-By-Reverse-Search = 4, taking 32293 iterations
+Case (32460, 32296): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32296): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32297): GCD-By-Def = 1, taking 32296 iterations
+Case (32460, 32297): GCD-By-Reverse-Search = 1, taking 32297 iterations
+Case (32460, 32297): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32297): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32298): GCD-By-Def = 6, taking 32297 iterations
+Case (32460, 32298): GCD-By-Reverse-Search = 6, taking 32293 iterations
+Case (32460, 32298): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32298): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32299): GCD-By-Def = 1, taking 32298 iterations
+Case (32460, 32299): GCD-By-Reverse-Search = 1, taking 32299 iterations
+Case (32460, 32299): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32299): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32300): GCD-By-Def = 20, taking 32299 iterations
+Case (32460, 32300): GCD-By-Reverse-Search = 20, taking 32281 iterations
+Case (32460, 32300): GCD-By-Binary = 20, taking 17 iterations
+Case (32460, 32300): GCD-By-Euclid = 20, taking 3 iterations
+
+Case (32460, 32301): GCD-By-Def = 3, taking 32300 iterations
+Case (32460, 32301): GCD-By-Reverse-Search = 3, taking 32299 iterations
+Case (32460, 32301): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32301): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32302): GCD-By-Def = 2, taking 32301 iterations
+Case (32460, 32302): GCD-By-Reverse-Search = 2, taking 32301 iterations
+Case (32460, 32302): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32302): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32303): GCD-By-Def = 1, taking 32302 iterations
+Case (32460, 32303): GCD-By-Reverse-Search = 1, taking 32303 iterations
+Case (32460, 32303): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32303): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32304): GCD-By-Def = 12, taking 32303 iterations
+Case (32460, 32304): GCD-By-Reverse-Search = 12, taking 32293 iterations
+Case (32460, 32304): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32304): GCD-By-Euclid = 12, taking 2 iterations
+
+Case (32460, 32305): GCD-By-Def = 5, taking 32304 iterations
+Case (32460, 32305): GCD-By-Reverse-Search = 5, taking 32301 iterations
+Case (32460, 32305): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32305): GCD-By-Euclid = 5, taking 6 iterations
+
+Case (32460, 32306): GCD-By-Def = 2, taking 32305 iterations
+Case (32460, 32306): GCD-By-Reverse-Search = 2, taking 32305 iterations
+Case (32460, 32306): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32306): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32307): GCD-By-Def = 3, taking 32306 iterations
+Case (32460, 32307): GCD-By-Reverse-Search = 3, taking 32305 iterations
+Case (32460, 32307): GCD-By-Binary = 3, taking 18 iterations
+Case (32460, 32307): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32308): GCD-By-Def = 4, taking 32307 iterations
+Case (32460, 32308): GCD-By-Reverse-Search = 4, taking 32305 iterations
+Case (32460, 32308): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32308): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32309): GCD-By-Def = 1, taking 32308 iterations
+Case (32460, 32309): GCD-By-Reverse-Search = 1, taking 32309 iterations
+Case (32460, 32309): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32309): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32310): GCD-By-Def = 30, taking 32309 iterations
+Case (32460, 32310): GCD-By-Reverse-Search = 30, taking 32281 iterations
+Case (32460, 32310): GCD-By-Binary = 30, taking 11 iterations
+Case (32460, 32310): GCD-By-Euclid = 30, taking 3 iterations
+
+Case (32460, 32311): GCD-By-Def = 1, taking 32310 iterations
+Case (32460, 32311): GCD-By-Reverse-Search = 1, taking 32311 iterations
+Case (32460, 32311): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32311): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32312): GCD-By-Def = 4, taking 32311 iterations
+Case (32460, 32312): GCD-By-Reverse-Search = 4, taking 32309 iterations
+Case (32460, 32312): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32312): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32313): GCD-By-Def = 3, taking 32312 iterations
+Case (32460, 32313): GCD-By-Reverse-Search = 3, taking 32311 iterations
+Case (32460, 32313): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32313): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32314): GCD-By-Def = 2, taking 32313 iterations
+Case (32460, 32314): GCD-By-Reverse-Search = 2, taking 32313 iterations
+Case (32460, 32314): GCD-By-Binary = 2, taking 19 iterations
+Case (32460, 32314): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32315): GCD-By-Def = 5, taking 32314 iterations
+Case (32460, 32315): GCD-By-Reverse-Search = 5, taking 32311 iterations
+Case (32460, 32315): GCD-By-Binary = 5, taking 16 iterations
+Case (32460, 32315): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32316): GCD-By-Def = 12, taking 32315 iterations
+Case (32460, 32316): GCD-By-Reverse-Search = 12, taking 32305 iterations
+Case (32460, 32316): GCD-By-Binary = 12, taking 18 iterations
+Case (32460, 32316): GCD-By-Euclid = 12, taking 4 iterations
+
+Case (32460, 32317): GCD-By-Def = 1, taking 32316 iterations
+Case (32460, 32317): GCD-By-Reverse-Search = 1, taking 32317 iterations
+Case (32460, 32317): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32317): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32318): GCD-By-Def = 2, taking 32317 iterations
+Case (32460, 32318): GCD-By-Reverse-Search = 2, taking 32317 iterations
+Case (32460, 32318): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32318): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32319): GCD-By-Def = 3, taking 32318 iterations
+Case (32460, 32319): GCD-By-Reverse-Search = 3, taking 32317 iterations
+Case (32460, 32319): GCD-By-Binary = 3, taking 16 iterations
+Case (32460, 32319): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32320): GCD-By-Def = 20, taking 32319 iterations
+Case (32460, 32320): GCD-By-Reverse-Search = 20, taking 32301 iterations
+Case (32460, 32320): GCD-By-Binary = 20, taking 13 iterations
+Case (32460, 32320): GCD-By-Euclid = 20, taking 3 iterations
+
+Case (32460, 32321): GCD-By-Def = 1, taking 32320 iterations
+Case (32460, 32321): GCD-By-Reverse-Search = 1, taking 32321 iterations
+Case (32460, 32321): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32321): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32322): GCD-By-Def = 6, taking 32321 iterations
+Case (32460, 32322): GCD-By-Reverse-Search = 6, taking 32317 iterations
+Case (32460, 32322): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32322): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32323): GCD-By-Def = 1, taking 32322 iterations
+Case (32460, 32323): GCD-By-Reverse-Search = 1, taking 32323 iterations
+Case (32460, 32323): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32323): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32324): GCD-By-Def = 4, taking 32323 iterations
+Case (32460, 32324): GCD-By-Reverse-Search = 4, taking 32321 iterations
+Case (32460, 32324): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32324): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32325): GCD-By-Def = 15, taking 32324 iterations
+Case (32460, 32325): GCD-By-Reverse-Search = 15, taking 32311 iterations
+Case (32460, 32325): GCD-By-Binary = 15, taking 11 iterations
+Case (32460, 32325): GCD-By-Euclid = 15, taking 3 iterations
+
+Case (32460, 32326): GCD-By-Def = 2, taking 32325 iterations
+Case (32460, 32326): GCD-By-Reverse-Search = 2, taking 32325 iterations
+Case (32460, 32326): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32326): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32327): GCD-By-Def = 1, taking 32326 iterations
+Case (32460, 32327): GCD-By-Reverse-Search = 1, taking 32327 iterations
+Case (32460, 32327): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32327): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32328): GCD-By-Def = 12, taking 32327 iterations
+Case (32460, 32328): GCD-By-Reverse-Search = 12, taking 32317 iterations
+Case (32460, 32328): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32328): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32329): GCD-By-Def = 1, taking 32328 iterations
+Case (32460, 32329): GCD-By-Reverse-Search = 1, taking 32329 iterations
+Case (32460, 32329): GCD-By-Binary = 1, taking 19 iterations
+Case (32460, 32329): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32330): GCD-By-Def = 10, taking 32329 iterations
+Case (32460, 32330): GCD-By-Reverse-Search = 10, taking 32321 iterations
+Case (32460, 32330): GCD-By-Binary = 10, taking 11 iterations
+Case (32460, 32330): GCD-By-Euclid = 10, taking 4 iterations
+
+Case (32460, 32331): GCD-By-Def = 3, taking 32330 iterations
+Case (32460, 32331): GCD-By-Reverse-Search = 3, taking 32329 iterations
+Case (32460, 32331): GCD-By-Binary = 3, taking 18 iterations
+Case (32460, 32331): GCD-By-Euclid = 3, taking 6 iterations
+
+Case (32460, 32332): GCD-By-Def = 4, taking 32331 iterations
+Case (32460, 32332): GCD-By-Reverse-Search = 4, taking 32329 iterations
+Case (32460, 32332): GCD-By-Binary = 4, taking 26 iterations
+Case (32460, 32332): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32333): GCD-By-Def = 1, taking 32332 iterations
+Case (32460, 32333): GCD-By-Reverse-Search = 1, taking 32333 iterations
+Case (32460, 32333): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32333): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32334): GCD-By-Def = 6, taking 32333 iterations
+Case (32460, 32334): GCD-By-Reverse-Search = 6, taking 32329 iterations
+Case (32460, 32334): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32334): GCD-By-Euclid = 6, taking 7 iterations
+
+Case (32460, 32335): GCD-By-Def = 5, taking 32334 iterations
+Case (32460, 32335): GCD-By-Reverse-Search = 5, taking 32331 iterations
+Case (32460, 32335): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32335): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32336): GCD-By-Def = 4, taking 32335 iterations
+Case (32460, 32336): GCD-By-Reverse-Search = 4, taking 32333 iterations
+Case (32460, 32336): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32336): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32337): GCD-By-Def = 3, taking 32336 iterations
+Case (32460, 32337): GCD-By-Reverse-Search = 3, taking 32335 iterations
+Case (32460, 32337): GCD-By-Binary = 3, taking 18 iterations
+Case (32460, 32337): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32338): GCD-By-Def = 2, taking 32337 iterations
+Case (32460, 32338): GCD-By-Reverse-Search = 2, taking 32337 iterations
+Case (32460, 32338): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32338): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32339): GCD-By-Def = 1, taking 32338 iterations
+Case (32460, 32339): GCD-By-Reverse-Search = 1, taking 32339 iterations
+Case (32460, 32339): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32339): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32340): GCD-By-Def = 60, taking 32339 iterations
+Case (32460, 32340): GCD-By-Reverse-Search = 60, taking 32281 iterations
+Case (32460, 32340): GCD-By-Binary = 60, taking 13 iterations
+Case (32460, 32340): GCD-By-Euclid = 60, taking 2 iterations
+
+Case (32460, 32341): GCD-By-Def = 1, taking 32340 iterations
+Case (32460, 32341): GCD-By-Reverse-Search = 1, taking 32341 iterations
+Case (32460, 32341): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32341): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32342): GCD-By-Def = 2, taking 32341 iterations
+Case (32460, 32342): GCD-By-Reverse-Search = 2, taking 32341 iterations
+Case (32460, 32342): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32342): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32343): GCD-By-Def = 3, taking 32342 iterations
+Case (32460, 32343): GCD-By-Reverse-Search = 3, taking 32341 iterations
+Case (32460, 32343): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32343): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32344): GCD-By-Def = 4, taking 32343 iterations
+Case (32460, 32344): GCD-By-Reverse-Search = 4, taking 32341 iterations
+Case (32460, 32344): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32344): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32345): GCD-By-Def = 5, taking 32344 iterations
+Case (32460, 32345): GCD-By-Reverse-Search = 5, taking 32341 iterations
+Case (32460, 32345): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32345): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32346): GCD-By-Def = 6, taking 32345 iterations
+Case (32460, 32346): GCD-By-Reverse-Search = 6, taking 32341 iterations
+Case (32460, 32346): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32346): GCD-By-Euclid = 6, taking 5 iterations
+
+Case (32460, 32347): GCD-By-Def = 1, taking 32346 iterations
+Case (32460, 32347): GCD-By-Reverse-Search = 1, taking 32347 iterations
+Case (32460, 32347): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32347): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32348): GCD-By-Def = 4, taking 32347 iterations
+Case (32460, 32348): GCD-By-Reverse-Search = 4, taking 32345 iterations
+Case (32460, 32348): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32348): GCD-By-Euclid = 4, taking 6 iterations
+
+Case (32460, 32349): GCD-By-Def = 3, taking 32348 iterations
+Case (32460, 32349): GCD-By-Reverse-Search = 3, taking 32347 iterations
+Case (32460, 32349): GCD-By-Binary = 3, taking 13 iterations
+Case (32460, 32349): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32350): GCD-By-Def = 10, taking 32349 iterations
+Case (32460, 32350): GCD-By-Reverse-Search = 10, taking 32341 iterations
+Case (32460, 32350): GCD-By-Binary = 10, taking 14 iterations
+Case (32460, 32350): GCD-By-Euclid = 10, taking 2 iterations
+
+Case (32460, 32351): GCD-By-Def = 1, taking 32350 iterations
+Case (32460, 32351): GCD-By-Reverse-Search = 1, taking 32351 iterations
+Case (32460, 32351): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32351): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32352): GCD-By-Def = 12, taking 32351 iterations
+Case (32460, 32352): GCD-By-Reverse-Search = 12, taking 32341 iterations
+Case (32460, 32352): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32352): GCD-By-Euclid = 12, taking 4 iterations
+
+Case (32460, 32353): GCD-By-Def = 1, taking 32352 iterations
+Case (32460, 32353): GCD-By-Reverse-Search = 1, taking 32353 iterations
+Case (32460, 32353): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32353): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32354): GCD-By-Def = 2, taking 32353 iterations
+Case (32460, 32354): GCD-By-Reverse-Search = 2, taking 32353 iterations
+Case (32460, 32354): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32354): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32355): GCD-By-Def = 15, taking 32354 iterations
+Case (32460, 32355): GCD-By-Reverse-Search = 15, taking 32341 iterations
+Case (32460, 32355): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32355): GCD-By-Euclid = 15, taking 2 iterations
+
+Case (32460, 32356): GCD-By-Def = 4, taking 32355 iterations
+Case (32460, 32356): GCD-By-Reverse-Search = 4, taking 32353 iterations
+Case (32460, 32356): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32356): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32357): GCD-By-Def = 1, taking 32356 iterations
+Case (32460, 32357): GCD-By-Reverse-Search = 1, taking 32357 iterations
+Case (32460, 32357): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32357): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32358): GCD-By-Def = 6, taking 32357 iterations
+Case (32460, 32358): GCD-By-Reverse-Search = 6, taking 32353 iterations
+Case (32460, 32358): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32358): GCD-By-Euclid = 6, taking 3 iterations
+
+Case (32460, 32359): GCD-By-Def = 1, taking 32358 iterations
+Case (32460, 32359): GCD-By-Reverse-Search = 1, taking 32359 iterations
+Case (32460, 32359): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32359): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32360): GCD-By-Def = 20, taking 32359 iterations
+Case (32460, 32360): GCD-By-Reverse-Search = 20, taking 32341 iterations
+Case (32460, 32360): GCD-By-Binary = 20, taking 14 iterations
+Case (32460, 32360): GCD-By-Euclid = 20, taking 4 iterations
+
+Case (32460, 32361): GCD-By-Def = 3, taking 32360 iterations
+Case (32460, 32361): GCD-By-Reverse-Search = 3, taking 32359 iterations
+Case (32460, 32361): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32361): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32362): GCD-By-Def = 2, taking 32361 iterations
+Case (32460, 32362): GCD-By-Reverse-Search = 2, taking 32361 iterations
+Case (32460, 32362): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32362): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32363): GCD-By-Def = 1, taking 32362 iterations
+Case (32460, 32363): GCD-By-Reverse-Search = 1, taking 32363 iterations
+Case (32460, 32363): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32363): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32364): GCD-By-Def = 12, taking 32363 iterations
+Case (32460, 32364): GCD-By-Reverse-Search = 12, taking 32353 iterations
+Case (32460, 32364): GCD-By-Binary = 12, taking 17 iterations
+Case (32460, 32364): GCD-By-Euclid = 12, taking 2 iterations
+
+Case (32460, 32365): GCD-By-Def = 5, taking 32364 iterations
+Case (32460, 32365): GCD-By-Reverse-Search = 5, taking 32361 iterations
+Case (32460, 32365): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32365): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32366): GCD-By-Def = 2, taking 32365 iterations
+Case (32460, 32366): GCD-By-Reverse-Search = 2, taking 32365 iterations
+Case (32460, 32366): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32366): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32367): GCD-By-Def = 3, taking 32366 iterations
+Case (32460, 32367): GCD-By-Reverse-Search = 3, taking 32365 iterations
+Case (32460, 32367): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32367): GCD-By-Euclid = 3, taking 2 iterations
+
+Case (32460, 32368): GCD-By-Def = 4, taking 32367 iterations
+Case (32460, 32368): GCD-By-Reverse-Search = 4, taking 32365 iterations
+Case (32460, 32368): GCD-By-Binary = 4, taking 16 iterations
+Case (32460, 32368): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32369): GCD-By-Def = 1, taking 32368 iterations
+Case (32460, 32369): GCD-By-Reverse-Search = 1, taking 32369 iterations
+Case (32460, 32369): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32369): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32370): GCD-By-Def = 30, taking 32369 iterations
+Case (32460, 32370): GCD-By-Reverse-Search = 30, taking 32341 iterations
+Case (32460, 32370): GCD-By-Binary = 30, taking 11 iterations
+Case (32460, 32370): GCD-By-Euclid = 30, taking 3 iterations
+
+Case (32460, 32371): GCD-By-Def = 1, taking 32370 iterations
+Case (32460, 32371): GCD-By-Reverse-Search = 1, taking 32371 iterations
+Case (32460, 32371): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32371): GCD-By-Euclid = 1, taking 8 iterations
+
+Case (32460, 32372): GCD-By-Def = 4, taking 32371 iterations
+Case (32460, 32372): GCD-By-Reverse-Search = 4, taking 32369 iterations
+Case (32460, 32372): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32372): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32373): GCD-By-Def = 3, taking 32372 iterations
+Case (32460, 32373): GCD-By-Reverse-Search = 3, taking 32371 iterations
+Case (32460, 32373): GCD-By-Binary = 3, taking 16 iterations
+Case (32460, 32373): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32374): GCD-By-Def = 2, taking 32373 iterations
+Case (32460, 32374): GCD-By-Reverse-Search = 2, taking 32373 iterations
+Case (32460, 32374): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32374): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32375): GCD-By-Def = 5, taking 32374 iterations
+Case (32460, 32375): GCD-By-Reverse-Search = 5, taking 32371 iterations
+Case (32460, 32375): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32375): GCD-By-Euclid = 5, taking 4 iterations
+
+Case (32460, 32376): GCD-By-Def = 12, taking 32375 iterations
+Case (32460, 32376): GCD-By-Reverse-Search = 12, taking 32365 iterations
+Case (32460, 32376): GCD-By-Binary = 12, taking 14 iterations
+Case (32460, 32376): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32377): GCD-By-Def = 1, taking 32376 iterations
+Case (32460, 32377): GCD-By-Reverse-Search = 1, taking 32377 iterations
+Case (32460, 32377): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32377): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32378): GCD-By-Def = 2, taking 32377 iterations
+Case (32460, 32378): GCD-By-Reverse-Search = 2, taking 32377 iterations
+Case (32460, 32378): GCD-By-Binary = 2, taking 17 iterations
+Case (32460, 32378): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32379): GCD-By-Def = 3, taking 32378 iterations
+Case (32460, 32379): GCD-By-Reverse-Search = 3, taking 32377 iterations
+Case (32460, 32379): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32379): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32380): GCD-By-Def = 20, taking 32379 iterations
+Case (32460, 32380): GCD-By-Reverse-Search = 20, taking 32361 iterations
+Case (32460, 32380): GCD-By-Binary = 20, taking 16 iterations
+Case (32460, 32380): GCD-By-Euclid = 20, taking 3 iterations
+
+Case (32460, 32381): GCD-By-Def = 1, taking 32380 iterations
+Case (32460, 32381): GCD-By-Reverse-Search = 1, taking 32381 iterations
+Case (32460, 32381): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32381): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32382): GCD-By-Def = 6, taking 32381 iterations
+Case (32460, 32382): GCD-By-Reverse-Search = 6, taking 32377 iterations
+Case (32460, 32382): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32382): GCD-By-Euclid = 6, taking 3 iterations
+
+Case (32460, 32383): GCD-By-Def = 1, taking 32382 iterations
+Case (32460, 32383): GCD-By-Reverse-Search = 1, taking 32383 iterations
+Case (32460, 32383): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32383): GCD-By-Euclid = 1, taking 7 iterations
+
+Case (32460, 32384): GCD-By-Def = 4, taking 32383 iterations
+Case (32460, 32384): GCD-By-Reverse-Search = 4, taking 32381 iterations
+Case (32460, 32384): GCD-By-Binary = 4, taking 17 iterations
+Case (32460, 32384): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32385): GCD-By-Def = 15, taking 32384 iterations
+Case (32460, 32385): GCD-By-Reverse-Search = 15, taking 32371 iterations
+Case (32460, 32385): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32385): GCD-By-Euclid = 15, taking 3 iterations
+
+Case (32460, 32386): GCD-By-Def = 2, taking 32385 iterations
+Case (32460, 32386): GCD-By-Reverse-Search = 2, taking 32385 iterations
+Case (32460, 32386): GCD-By-Binary = 2, taking 16 iterations
+Case (32460, 32386): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32387): GCD-By-Def = 1, taking 32386 iterations
+Case (32460, 32387): GCD-By-Reverse-Search = 1, taking 32387 iterations
+Case (32460, 32387): GCD-By-Binary = 1, taking 20 iterations
+Case (32460, 32387): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32388): GCD-By-Def = 12, taking 32387 iterations
+Case (32460, 32388): GCD-By-Reverse-Search = 12, taking 32377 iterations
+Case (32460, 32388): GCD-By-Binary = 12, taking 17 iterations
+Case (32460, 32388): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32389): GCD-By-Def = 1, taking 32388 iterations
+Case (32460, 32389): GCD-By-Reverse-Search = 1, taking 32389 iterations
+Case (32460, 32389): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32389): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32390): GCD-By-Def = 10, taking 32389 iterations
+Case (32460, 32390): GCD-By-Reverse-Search = 10, taking 32381 iterations
+Case (32460, 32390): GCD-By-Binary = 10, taking 13 iterations
+Case (32460, 32390): GCD-By-Euclid = 10, taking 4 iterations
+
+Case (32460, 32391): GCD-By-Def = 3, taking 32390 iterations
+Case (32460, 32391): GCD-By-Reverse-Search = 3, taking 32389 iterations
+Case (32460, 32391): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32391): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32392): GCD-By-Def = 4, taking 32391 iterations
+Case (32460, 32392): GCD-By-Reverse-Search = 4, taking 32389 iterations
+Case (32460, 32392): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32392): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32393): GCD-By-Def = 1, taking 32392 iterations
+Case (32460, 32393): GCD-By-Reverse-Search = 1, taking 32393 iterations
+Case (32460, 32393): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32393): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32394): GCD-By-Def = 6, taking 32393 iterations
+Case (32460, 32394): GCD-By-Reverse-Search = 6, taking 32389 iterations
+Case (32460, 32394): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32394): GCD-By-Euclid = 6, taking 4 iterations
+
+Case (32460, 32395): GCD-By-Def = 5, taking 32394 iterations
+Case (32460, 32395): GCD-By-Reverse-Search = 5, taking 32391 iterations
+Case (32460, 32395): GCD-By-Binary = 5, taking 12 iterations
+Case (32460, 32395): GCD-By-Euclid = 5, taking 5 iterations
+
+Case (32460, 32396): GCD-By-Def = 4, taking 32395 iterations
+Case (32460, 32396): GCD-By-Reverse-Search = 4, taking 32393 iterations
+Case (32460, 32396): GCD-By-Binary = 4, taking 24 iterations
+Case (32460, 32396): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32397): GCD-By-Def = 3, taking 32396 iterations
+Case (32460, 32397): GCD-By-Reverse-Search = 3, taking 32395 iterations
+Case (32460, 32397): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32397): GCD-By-Euclid = 3, taking 3 iterations
+
+Case (32460, 32398): GCD-By-Def = 2, taking 32397 iterations
+Case (32460, 32398): GCD-By-Reverse-Search = 2, taking 32397 iterations
+Case (32460, 32398): GCD-By-Binary = 2, taking 13 iterations
+Case (32460, 32398): GCD-By-Euclid = 2, taking 6 iterations
+
+Case (32460, 32399): GCD-By-Def = 1, taking 32398 iterations
+Case (32460, 32399): GCD-By-Reverse-Search = 1, taking 32399 iterations
+Case (32460, 32399): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32399): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32400): GCD-By-Def = 60, taking 32399 iterations
+Case (32460, 32400): GCD-By-Reverse-Search = 60, taking 32341 iterations
+Case (32460, 32400): GCD-By-Binary = 60, taking 13 iterations
+Case (32460, 32400): GCD-By-Euclid = 60, taking 1 iterations
+
+Case (32460, 32401): GCD-By-Def = 1, taking 32400 iterations
+Case (32460, 32401): GCD-By-Reverse-Search = 1, taking 32401 iterations
+Case (32460, 32401): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32401): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32402): GCD-By-Def = 2, taking 32401 iterations
+Case (32460, 32402): GCD-By-Reverse-Search = 2, taking 32401 iterations
+Case (32460, 32402): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32402): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32403): GCD-By-Def = 3, taking 32402 iterations
+Case (32460, 32403): GCD-By-Reverse-Search = 3, taking 32401 iterations
+Case (32460, 32403): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32403): GCD-By-Euclid = 3, taking 3 iterations
+
+Case (32460, 32404): GCD-By-Def = 4, taking 32403 iterations
+Case (32460, 32404): GCD-By-Reverse-Search = 4, taking 32401 iterations
+Case (32460, 32404): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32404): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32405): GCD-By-Def = 5, taking 32404 iterations
+Case (32460, 32405): GCD-By-Reverse-Search = 5, taking 32401 iterations
+Case (32460, 32405): GCD-By-Binary = 5, taking 15 iterations
+Case (32460, 32405): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32406): GCD-By-Def = 6, taking 32405 iterations
+Case (32460, 32406): GCD-By-Reverse-Search = 6, taking 32401 iterations
+Case (32460, 32406): GCD-By-Binary = 6, taking 15 iterations
+Case (32460, 32406): GCD-By-Euclid = 6, taking 2 iterations
+
+Case (32460, 32407): GCD-By-Def = 1, taking 32406 iterations
+Case (32460, 32407): GCD-By-Reverse-Search = 1, taking 32407 iterations
+Case (32460, 32407): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32407): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32408): GCD-By-Def = 4, taking 32407 iterations
+Case (32460, 32408): GCD-By-Reverse-Search = 4, taking 32405 iterations
+Case (32460, 32408): GCD-By-Binary = 4, taking 15 iterations
+Case (32460, 32408): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32409): GCD-By-Def = 3, taking 32408 iterations
+Case (32460, 32409): GCD-By-Reverse-Search = 3, taking 32407 iterations
+Case (32460, 32409): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32409): GCD-By-Euclid = 3, taking 3 iterations
+
+Case (32460, 32410): GCD-By-Def = 10, taking 32409 iterations
+Case (32460, 32410): GCD-By-Reverse-Search = 10, taking 32401 iterations
+Case (32460, 32410): GCD-By-Binary = 10, taking 12 iterations
+Case (32460, 32410): GCD-By-Euclid = 10, taking 2 iterations
+
+Case (32460, 32411): GCD-By-Def = 1, taking 32410 iterations
+Case (32460, 32411): GCD-By-Reverse-Search = 1, taking 32411 iterations
+Case (32460, 32411): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32411): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32412): GCD-By-Def = 12, taking 32411 iterations
+Case (32460, 32412): GCD-By-Reverse-Search = 12, taking 32401 iterations
+Case (32460, 32412): GCD-By-Binary = 12, taking 17 iterations
+Case (32460, 32412): GCD-By-Euclid = 12, taking 2 iterations
+
+Case (32460, 32413): GCD-By-Def = 1, taking 32412 iterations
+Case (32460, 32413): GCD-By-Reverse-Search = 1, taking 32413 iterations
+Case (32460, 32413): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32413): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32414): GCD-By-Def = 2, taking 32413 iterations
+Case (32460, 32414): GCD-By-Reverse-Search = 2, taking 32413 iterations
+Case (32460, 32414): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32414): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32415): GCD-By-Def = 15, taking 32414 iterations
+Case (32460, 32415): GCD-By-Reverse-Search = 15, taking 32401 iterations
+Case (32460, 32415): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32415): GCD-By-Euclid = 15, taking 2 iterations
+
+Case (32460, 32416): GCD-By-Def = 4, taking 32415 iterations
+Case (32460, 32416): GCD-By-Reverse-Search = 4, taking 32413 iterations
+Case (32460, 32416): GCD-By-Binary = 4, taking 18 iterations
+Case (32460, 32416): GCD-By-Euclid = 4, taking 5 iterations
+
+Case (32460, 32417): GCD-By-Def = 1, taking 32416 iterations
+Case (32460, 32417): GCD-By-Reverse-Search = 1, taking 32417 iterations
+Case (32460, 32417): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32417): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32418): GCD-By-Def = 6, taking 32417 iterations
+Case (32460, 32418): GCD-By-Reverse-Search = 6, taking 32413 iterations
+Case (32460, 32418): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32418): GCD-By-Euclid = 6, taking 3 iterations
+
+Case (32460, 32419): GCD-By-Def = 1, taking 32418 iterations
+Case (32460, 32419): GCD-By-Reverse-Search = 1, taking 32419 iterations
+Case (32460, 32419): GCD-By-Binary = 1, taking 18 iterations
+Case (32460, 32419): GCD-By-Euclid = 1, taking 6 iterations
+
+Case (32460, 32420): GCD-By-Def = 20, taking 32419 iterations
+Case (32460, 32420): GCD-By-Reverse-Search = 20, taking 32401 iterations
+Case (32460, 32420): GCD-By-Binary = 20, taking 16 iterations
+Case (32460, 32420): GCD-By-Euclid = 20, taking 2 iterations
+
+Case (32460, 32421): GCD-By-Def = 3, taking 32420 iterations
+Case (32460, 32421): GCD-By-Reverse-Search = 3, taking 32419 iterations
+Case (32460, 32421): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32421): GCD-By-Euclid = 3, taking 3 iterations
+
+Case (32460, 32422): GCD-By-Def = 2, taking 32421 iterations
+Case (32460, 32422): GCD-By-Reverse-Search = 2, taking 32421 iterations
+Case (32460, 32422): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32422): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32423): GCD-By-Def = 1, taking 32422 iterations
+Case (32460, 32423): GCD-By-Reverse-Search = 1, taking 32423 iterations
+Case (32460, 32423): GCD-By-Binary = 1, taking 17 iterations
+Case (32460, 32423): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32424): GCD-By-Def = 12, taking 32423 iterations
+Case (32460, 32424): GCD-By-Reverse-Search = 12, taking 32413 iterations
+Case (32460, 32424): GCD-By-Binary = 12, taking 16 iterations
+Case (32460, 32424): GCD-By-Euclid = 12, taking 3 iterations
+
+Case (32460, 32425): GCD-By-Def = 5, taking 32424 iterations
+Case (32460, 32425): GCD-By-Reverse-Search = 5, taking 32421 iterations
+Case (32460, 32425): GCD-By-Binary = 5, taking 14 iterations
+Case (32460, 32425): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32426): GCD-By-Def = 2, taking 32425 iterations
+Case (32460, 32426): GCD-By-Reverse-Search = 2, taking 32425 iterations
+Case (32460, 32426): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32426): GCD-By-Euclid = 2, taking 5 iterations
+
+Case (32460, 32427): GCD-By-Def = 3, taking 32426 iterations
+Case (32460, 32427): GCD-By-Reverse-Search = 3, taking 32425 iterations
+Case (32460, 32427): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32427): GCD-By-Euclid = 3, taking 5 iterations
+
+Case (32460, 32428): GCD-By-Def = 4, taking 32427 iterations
+Case (32460, 32428): GCD-By-Reverse-Search = 4, taking 32425 iterations
+Case (32460, 32428): GCD-By-Binary = 4, taking 23 iterations
+Case (32460, 32428): GCD-By-Euclid = 4, taking 4 iterations
+
+Case (32460, 32429): GCD-By-Def = 1, taking 32428 iterations
+Case (32460, 32429): GCD-By-Reverse-Search = 1, taking 32429 iterations
+Case (32460, 32429): GCD-By-Binary = 1, taking 14 iterations
+Case (32460, 32429): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32430): GCD-By-Def = 30, taking 32429 iterations
+Case (32460, 32430): GCD-By-Reverse-Search = 30, taking 32401 iterations
+Case (32460, 32430): GCD-By-Binary = 30, taking 11 iterations
+Case (32460, 32430): GCD-By-Euclid = 30, taking 1 iterations
+
+Case (32460, 32431): GCD-By-Def = 1, taking 32430 iterations
+Case (32460, 32431): GCD-By-Reverse-Search = 1, taking 32431 iterations
+Case (32460, 32431): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32431): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32432): GCD-By-Def = 4, taking 32431 iterations
+Case (32460, 32432): GCD-By-Reverse-Search = 4, taking 32429 iterations
+Case (32460, 32432): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32432): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32433): GCD-By-Def = 3, taking 32432 iterations
+Case (32460, 32433): GCD-By-Reverse-Search = 3, taking 32431 iterations
+Case (32460, 32433): GCD-By-Binary = 3, taking 16 iterations
+Case (32460, 32433): GCD-By-Euclid = 3, taking 3 iterations
+
+Case (32460, 32434): GCD-By-Def = 2, taking 32433 iterations
+Case (32460, 32434): GCD-By-Reverse-Search = 2, taking 32433 iterations
+Case (32460, 32434): GCD-By-Binary = 2, taking 15 iterations
+Case (32460, 32434): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32435): GCD-By-Def = 5, taking 32434 iterations
+Case (32460, 32435): GCD-By-Reverse-Search = 5, taking 32431 iterations
+Case (32460, 32435): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32435): GCD-By-Euclid = 5, taking 3 iterations
+
+Case (32460, 32436): GCD-By-Def = 12, taking 32435 iterations
+Case (32460, 32436): GCD-By-Reverse-Search = 12, taking 32425 iterations
+Case (32460, 32436): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32436): GCD-By-Euclid = 12, taking 2 iterations
+
+Case (32460, 32437): GCD-By-Def = 1, taking 32436 iterations
+Case (32460, 32437): GCD-By-Reverse-Search = 1, taking 32437 iterations
+Case (32460, 32437): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32437): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32438): GCD-By-Def = 2, taking 32437 iterations
+Case (32460, 32438): GCD-By-Reverse-Search = 2, taking 32437 iterations
+Case (32460, 32438): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32438): GCD-By-Euclid = 2, taking 3 iterations
+
+Case (32460, 32439): GCD-By-Def = 3, taking 32438 iterations
+Case (32460, 32439): GCD-By-Reverse-Search = 3, taking 32437 iterations
+Case (32460, 32439): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32439): GCD-By-Euclid = 3, taking 4 iterations
+
+Case (32460, 32440): GCD-By-Def = 20, taking 32439 iterations
+Case (32460, 32440): GCD-By-Reverse-Search = 20, taking 32421 iterations
+Case (32460, 32440): GCD-By-Binary = 20, taking 14 iterations
+Case (32460, 32440): GCD-By-Euclid = 20, taking 1 iterations
+
+Case (32460, 32441): GCD-By-Def = 1, taking 32440 iterations
+Case (32460, 32441): GCD-By-Reverse-Search = 1, taking 32441 iterations
+Case (32460, 32441): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32441): GCD-By-Euclid = 1, taking 5 iterations
+
+Case (32460, 32442): GCD-By-Def = 6, taking 32441 iterations
+Case (32460, 32442): GCD-By-Reverse-Search = 6, taking 32437 iterations
+Case (32460, 32442): GCD-By-Binary = 6, taking 14 iterations
+Case (32460, 32442): GCD-By-Euclid = 6, taking 2 iterations
+
+Case (32460, 32443): GCD-By-Def = 1, taking 32442 iterations
+Case (32460, 32443): GCD-By-Reverse-Search = 1, taking 32443 iterations
+Case (32460, 32443): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32443): GCD-By-Euclid = 1, taking 4 iterations
+
+Case (32460, 32444): GCD-By-Def = 4, taking 32443 iterations
+Case (32460, 32444): GCD-By-Reverse-Search = 4, taking 32441 iterations
+Case (32460, 32444): GCD-By-Binary = 4, taking 23 iterations
+Case (32460, 32444): GCD-By-Euclid = 4, taking 3 iterations
+
+Case (32460, 32445): GCD-By-Def = 15, taking 32444 iterations
+Case (32460, 32445): GCD-By-Reverse-Search = 15, taking 32431 iterations
+Case (32460, 32445): GCD-By-Binary = 15, taking 12 iterations
+Case (32460, 32445): GCD-By-Euclid = 15, taking 1 iterations
+
+Case (32460, 32446): GCD-By-Def = 2, taking 32445 iterations
+Case (32460, 32446): GCD-By-Reverse-Search = 2, taking 32445 iterations
+Case (32460, 32446): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32446): GCD-By-Euclid = 2, taking 4 iterations
+
+Case (32460, 32447): GCD-By-Def = 1, taking 32446 iterations
+Case (32460, 32447): GCD-By-Reverse-Search = 1, taking 32447 iterations
+Case (32460, 32447): GCD-By-Binary = 1, taking 16 iterations
+Case (32460, 32447): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32448): GCD-By-Def = 12, taking 32447 iterations
+Case (32460, 32448): GCD-By-Reverse-Search = 12, taking 32437 iterations
+Case (32460, 32448): GCD-By-Binary = 12, taking 15 iterations
+Case (32460, 32448): GCD-By-Euclid = 12, taking 1 iterations
+
+Case (32460, 32449): GCD-By-Def = 1, taking 32448 iterations
+Case (32460, 32449): GCD-By-Reverse-Search = 1, taking 32449 iterations
+Case (32460, 32449): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32449): GCD-By-Euclid = 1, taking 3 iterations
+
+Case (32460, 32450): GCD-By-Def = 10, taking 32449 iterations
+Case (32460, 32450): GCD-By-Reverse-Search = 10, taking 32441 iterations
+Case (32460, 32450): GCD-By-Binary = 10, taking 12 iterations
+Case (32460, 32450): GCD-By-Euclid = 10, taking 1 iterations
+
+Case (32460, 32451): GCD-By-Def = 3, taking 32450 iterations
+Case (32460, 32451): GCD-By-Reverse-Search = 3, taking 32449 iterations
+Case (32460, 32451): GCD-By-Binary = 3, taking 15 iterations
+Case (32460, 32451): GCD-By-Euclid = 3, taking 3 iterations
+
+Case (32460, 32452): GCD-By-Def = 4, taking 32451 iterations
+Case (32460, 32452): GCD-By-Reverse-Search = 4, taking 32449 iterations
+Case (32460, 32452): GCD-By-Binary = 4, taking 21 iterations
+Case (32460, 32452): GCD-By-Euclid = 4, taking 2 iterations
+
+Case (32460, 32453): GCD-By-Def = 1, taking 32452 iterations
+Case (32460, 32453): GCD-By-Reverse-Search = 1, taking 32453 iterations
+Case (32460, 32453): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32453): GCD-By-Euclid = 1, taking 2 iterations
+
+Case (32460, 32454): GCD-By-Def = 6, taking 32453 iterations
+Case (32460, 32454): GCD-By-Reverse-Search = 6, taking 32449 iterations
+Case (32460, 32454): GCD-By-Binary = 6, taking 13 iterations
+Case (32460, 32454): GCD-By-Euclid = 6, taking 1 iterations
+
+Case (32460, 32455): GCD-By-Def = 5, taking 32454 iterations
+Case (32460, 32455): GCD-By-Reverse-Search = 5, taking 32451 iterations
+Case (32460, 32455): GCD-By-Binary = 5, taking 13 iterations
+Case (32460, 32455): GCD-By-Euclid = 5, taking 1 iterations
+
+Case (32460, 32456): GCD-By-Def = 4, taking 32455 iterations
+Case (32460, 32456): GCD-By-Reverse-Search = 4, taking 32453 iterations
+Case (32460, 32456): GCD-By-Binary = 4, taking 20 iterations
+Case (32460, 32456): GCD-By-Euclid = 4, taking 1 iterations
+
+Case (32460, 32457): GCD-By-Def = 3, taking 32456 iterations
+Case (32460, 32457): GCD-By-Reverse-Search = 3, taking 32455 iterations
+Case (32460, 32457): GCD-By-Binary = 3, taking 14 iterations
+Case (32460, 32457): GCD-By-Euclid = 3, taking 1 iterations
+
+Case (32460, 32458): GCD-By-Def = 2, taking 32457 iterations
+Case (32460, 32458): GCD-By-Reverse-Search = 2, taking 32457 iterations
+Case (32460, 32458): GCD-By-Binary = 2, taking 14 iterations
+Case (32460, 32458): GCD-By-Euclid = 2, taking 1 iterations
+
+Case (32460, 32459): GCD-By-Def = 1, taking 32458 iterations
+Case (32460, 32459): GCD-By-Reverse-Search = 1, taking 32459 iterations
+Case (32460, 32459): GCD-By-Binary = 1, taking 15 iterations
+Case (32460, 32459): GCD-By-Euclid = 1, taking 1 iterations
+
+Case (32460, 32460): GCD-By-Def = 32460, taking 32459 iterations
+Case (32460, 32460): GCD-By-Reverse-Search = 32460, taking 1 iterations
+Case (32460, 32460): GCD-By-Binary = 32460, taking 1 iterations
+Case (32460, 32460): GCD-By-Euclid = 32460, taking 0 iterations
+
